@@ -1,0 +1,17 @@
+{
+    "parser": "babel-eslint",
+    "extends": [
+        "eslint-config-infektweb/configs/defaults",
+        "eslint-config-infektweb/configs/es6",
+        "eslint-config-infektweb/configs/react",
+    ],
+    "rules": {
+        "react/forbid-prop-types": 0,
+        "react/jsx-no-literals": 0,
+        "react/require-optimization": 0,
+        "sort-keys": 0
+    },
+    "env": {
+        "node": true
+    }
+}

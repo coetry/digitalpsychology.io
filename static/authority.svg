@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>authority</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="authority" stroke="#000000">
+            <g id="star" transform="translate(-4.000000, 3.000000)">
+                <g id="left-top" transform="translate(29.290699, 44.343242) scale(-1, 1) rotate(72.000000) translate(-29.290699, -44.343242) translate(17.290699, 18.343242)">
+                    <polygon id="Path-3" points="11.5627339 51.6752931 23.0804707 35.981645 11.5627339 0.185822246"></polygon>
+                    <polygon id="Path-3-Copy" transform="translate(5.769496, 26.094450) scale(-1, 1) translate(-5.769496, -26.094450) " points="5.00424033e-18 51.7132663 11.5389926 35.981645 0 0.475632759"></polygon>
+                </g>
+                <g id="left-down" transform="translate(38.955910, 73.171127) scale(-1, 1) rotate(144.000000) translate(-38.955910, -73.171127) translate(26.955910, 47.171127)">
+                    <polygon id="Path-3" points="11.5627339 51.6752931 23.0804707 35.981645 11.5627339 0.185822246"></polygon>
+                    <polygon id="Path-3-Copy" transform="translate(5.769496, 26.094450) scale(-1, 1) translate(-5.769496, -26.094450) " points="5.00424033e-18 51.7132663 11.5389926 35.981645 0 0.475632759"></polygon>
+                </g>
+                <g id="right-down" transform="translate(68.574982, 73.171127) rotate(144.000000) translate(-68.574982, -73.171127) translate(56.574982, 47.171127)">
+                    <polygon id="Path-3" points="11.5627339 51.6752931 23.0804707 35.981645 11.5627339 0.185822246"></polygon>
+                    <polygon id="Path-3-Copy" transform="translate(5.769496, 26.094450) scale(-1, 1) translate(-5.769496, -26.094450) " points="5.00424033e-18 51.7132663 11.5389926 35.981645 0 0.475632759"></polygon>
+                </g>
+                <g id="top" transform="translate(42.287293, 0.000000)">
+                    <polygon id="Path-3" points="11.5627339 51.6752931 23.0804707 35.981645 11.5627339 0.185822246"></polygon>
+                    <polygon id="Path-3-Copy" transform="translate(5.769496, 26.094450) scale(-1, 1) translate(-5.769496, -26.094450) " points="5.00424033e-18 51.7132663 11.5389926 35.981645 0 0.475632759"></polygon>
+                </g>
+                <g id="right-top" transform="translate(78.538171, 44.343242) rotate(72.000000) translate(-78.538171, -44.343242) translate(66.538171, 18.343242)">
+                    <polygon id="Path-3" points="11.5627339 51.6752931 23.0804707 35.981645 11.5627339 0.185822246"></polygon>
+                    <polygon id="Path-3-Copy" transform="translate(5.769496, 26.094450) scale(-1, 1) translate(-5.769496, -26.094450) " points="5.00424033e-18 51.7132663 11.5389926 35.981645 0 0.475632759"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
