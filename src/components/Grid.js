@@ -8,7 +8,7 @@ import { colors } from '../css/variables';
 function Grid(props) {
     const Root = styled.div`
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
         grid-gap: 1rem;
     `;
 
@@ -17,27 +17,39 @@ function Grid(props) {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        height: 14vw;
 
+        background-color: #f6f6f6;
+        padding: 4vw;
         font-family: 'Zilla Slab', serif;
         font-weight: 400;
         font-size: 1rem;
-        background-color: ${colors.accent};
         color: #000;
         letter-spacing: 1px;
-    `;
+        text-align: center;
+        transition: all 0.25s ease;
 
-    const Image = styled.img`
-        width: 75px;
-        height: 75px;
-        margin-bottom: 2rem;
+        img {
+            width: 6vw;
+            height: 6vw;
+            margin-bottom: 1.5vw;
+            transform: translateY(0);
+            transition: all 0.25s ease;
+        }
+
+        &:hover {
+            background-color: #fafafa;
+        }
+
+        &:hover img {
+            transform: scale(1.1);
+        }
     `;
 
     return (
         <Root>
             {props.items.map((item, index) => (
                 <Item key={index} to={item.path}>
-                    <Image src={`${__PATH_PREFIX__}/${item.slug}.svg`} />
+                    <img src={`${__PATH_PREFIX__}/${item.slug}.svg`} />
                     {item.title}
                 </Item>
             ))}
