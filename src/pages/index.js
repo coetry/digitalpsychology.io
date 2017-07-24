@@ -1,4 +1,5 @@
 import React from 'react';
+import styled, { keyframes } from 'styled-components';
 
 import Container from '../components/Container';
 import Footer from '../components/Footer';
@@ -13,17 +14,35 @@ export default function Index(props) {
         title: edge.node.frontmatter.title
     })).filter((post) => post.slug !== '404');
 
+    const fadeIn = keyframes`
+        from {
+            opacity: 0;
+            transform: translateY(1rem);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    `;
+
+    const Animation = styled.div`
+        animation: 1s ease ${fadeIn};
+    `;
+
     return (
         <div>
-            <Header title={siteTitle}>
-                <Container>
-                    <p>
-                        {`Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-                        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-                        sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.`}
-                    </p>
-                </Container>
-            </Header>
+            <Animation>
+                <Header title={siteTitle}>
+                    <Container>
+                        <p>
+                            {`Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                            nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.`}
+                        </p>
+                    </Container>
+                </Header>
+            </Animation>
             <Grid items={posts} />
             <Footer />
         </div>

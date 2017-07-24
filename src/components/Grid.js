@@ -26,14 +26,14 @@ function Grid(props) {
         color: #000;
         letter-spacing: 1px;
         text-align: center;
-        transition: all 0.25s ease;
+        transition: all .35s ease;
 
         img {
             width: 6vw;
             height: 6vw;
             margin-bottom: 1.5vw;
             transform: translateY(0);
-            transition: all 0.25s ease;
+            transition: all .35s ease;
         }
 
         &:hover {
