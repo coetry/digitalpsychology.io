@@ -15,6 +15,7 @@ injectGlobal`
         font-size: 14px;
         font-family: 'Rubik', sans-serif;
         font-weight: 300;
+        line-height: 1.6;
 
         @media (min-width: 500px) {
             font-size: 16px;
@@ -36,15 +37,15 @@ injectGlobal`
         color: ${colors.heading};
         font-family: 'Zilla Slab', serif;
         font-weight: 500;
-        margin: 0 0 1rem;
+        line-height: 1;
+        margin: 0 0 0.3em;
     }
 
     h1 {
-        font-size: 2.4rem;
+        font-size: 4.4rem;
     }
 
     p {
-        line-height: 1.6em;
         margin: 1rem 0;
     }
 

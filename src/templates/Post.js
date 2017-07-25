@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import React from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
@@ -16,17 +15,11 @@ function Post(props) {
     return (
         <Root>
             <Helmet title={`${post.frontmatter.title} » ${siteTitle}`} />
-            <Container>
-                <h1>{post.frontmatter.title}</h1>
-                <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            </Container>
+            <h1>{post.frontmatter.title}</h1>
+            <Container dangerouslySetInnerHTML={{ __html: post.html }} />
         </Root>
     );
 }
-
-Post.propTypes = {
-    data: PropTypes.object
-};
 
 export default Post;
 
