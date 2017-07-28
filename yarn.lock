@@ -1685,7 +1685,7 @@ cheerio@^0.22.0:
     lodash.reject "^4.4.0"
     lodash.some "^4.4.0"
 
-cheerio@^1.0.0-rc.1:
+cheerio@^1.0.0-rc.1, cheerio@^1.0.0-rc.2:
   version "1.0.0-rc.2"
   resolved "https://registry.yarnpkg.com/cheerio/-/cheerio-1.0.0-rc.2.tgz#4b9f53a81b27e4d5dac31c0ffd0cfa03cc6830db"
   dependencies:
@@ -3658,14 +3658,15 @@ gatsby-remark-copy-linked-files@next:
     lodash "^4.17.4"
     unist-util-visit "^1.1.1"
 
-gatsby-remark-images@next:
-  version "1.0.0-beta.6"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.0.0-beta.6.tgz#014ca3366b7c8c7c7482e01095f72cef3ec08bf3"
+gatsby-remark-images@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.0.tgz#f0abfbf2eadecd881c380baece5a09dc36fde3a5"
   dependencies:
-    cheerio "^1.0.0-rc.1"
+    cheerio "^1.0.0-rc.2"
     image-size "^0.5.1"
     is-relative-url "^2.0.0"
     lodash "^4.17.4"
+    slash "^1.0.0"
     unist-util-select "^1.5.0"
 
 gatsby-remark-prismjs@next:

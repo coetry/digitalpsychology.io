@@ -10,6 +10,15 @@ function Header() {
         padding: 2rem;
         border-right: 1px solid #ddd;
         display: flex;
+
+        > a {
+            border: none;
+
+            &:hover {
+                background-color: transparent;
+                color: inherit;
+            }
+        }
     `;
 
     const Title = styled.h1`

@@ -10,6 +10,20 @@ function Post(props) {
 
     const Root = styled.div`
         padding: 7vw 10vw;
+
+        img {
+            border: 1px solid #ddd;
+        }
+
+        a {
+            border-bottom: 1px dotted #000;
+            color: #000;
+
+            &:hover {
+                background-color: #000;
+                color: #fff;
+            }
+        }
     `;
 
     return (

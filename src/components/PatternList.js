@@ -46,6 +46,7 @@ function PatternList(props) {
 
         &:hover {
             background-color: ${colors.highlight};
+            color: ${colors.heading};
         }
 
         &:hover figure {

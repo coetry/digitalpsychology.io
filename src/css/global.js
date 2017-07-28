@@ -36,11 +36,21 @@ injectGlobal`
         font-family: 'Roboto Mono', monospace;
         letter-spacing: 1px;
         line-height: 1;
-        margin: 0 0 0.5em;
     }
 
     h1 {
         font-size: 3rem;
+        margin: 0 0 2.5rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        margin: 2.5rem 0 1rem;
+    }
+
+    h3 {
+        font-size: 1rem;
+        margin: 2.5rem 0 1rem;
     }
 
     p {
@@ -48,13 +58,11 @@ injectGlobal`
     }
 
     a {
-        color: #000;
         text-decoration: none;
-        transition: color .25s ease;
     }
 
     ::selection {
-        background-color: rgba(142, 253, 174, .99);
-        color: ${colors.bg};
+        background-color: rgba(0, 0, 0, .99);
+        color: #fff;
     }
 `;
