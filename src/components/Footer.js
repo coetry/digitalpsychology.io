@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-function Header() {
+function Footer() {
     const Root = styled.footer`
         padding: 10vw;
     `;
@@ -13,4 +13,4 @@ function Header() {
     );
 }
 
-export default Header;
+export default Footer;

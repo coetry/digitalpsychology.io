@@ -9,7 +9,7 @@ function Post(props) {
     const siteTitle = props.data.site.siteMetadata.title;
 
     const Root = styled.div`
-        padding: 10vw;
+        padding: 7vw 10vw;
     `;
 
     return (

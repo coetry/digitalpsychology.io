@@ -1,6 +1,7 @@
 ---
 title: Anchoring
 draft: false
+raster: 9,10,11,12|9,10,11,12|9,10,11,12|9,10,11,12|10,11|10,11|10,11|7,8,9,10,11,12,13,14|10,11|10,11|10,11|10,11|10,11|10,11|2,10,11,19|2,3,4,5,9,10,11,12,16,17,18,19|3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18|5,6,7,8,9,10,11,12,13,14,15,16|7,8,9,10,11,12,13,14|9,10,11,12
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.

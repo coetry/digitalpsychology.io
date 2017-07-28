@@ -4,8 +4,7 @@ import { colors } from './variables';
 
 // eslint-disable-next-line no-unused-expressions
 injectGlobal`
-    @import url('https://fonts.googleapis.com/css?family=Rubik:300');
-    @import url('https://fonts.googleapis.com/css?family=Zilla+Slab:400,500');
+    @import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300');
 
     * {
         box-sizing: border-box;
@@ -13,8 +12,7 @@ injectGlobal`
 
     html {
         font-size: 14px;
-        font-family: 'Rubik', sans-serif;
-        font-weight: 300;
+        font-family: 'Roboto', sans-serif;
         line-height: 1.6;
 
         @media (min-width: 500px) {
@@ -35,14 +33,14 @@ injectGlobal`
 
     h1, h2, h3 {
         color: ${colors.heading};
-        font-family: 'Zilla Slab', serif;
-        font-weight: 500;
+        font-family: 'Roboto Mono', monospace;
+        letter-spacing: 1px;
         line-height: 1;
-        margin: 0 0 0.3em;
+        margin: 0 0 0.5em;
     }
 
     h1 {
-        font-size: 4.4rem;
+        font-size: 3rem;
     }
 
     p {

@@ -25,6 +25,7 @@
     "gatsby-source-filesystem": "next",
     "gatsby-transformer-remark": "next",
     "is-in-browser": "^1.1.3",
+    "left-pad": "^1.1.3",
     "react-helmet": "^5.0.3",
     "styled-components": "^2.0.0"
   },

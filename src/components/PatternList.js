@@ -1,15 +1,20 @@
 /* global __PATH_PREFIX__  */
 
 import Link from 'gatsby-link';
+import leftPad from 'left-pad';
 import PropTypes from 'prop-types';
 import React from 'react';
 import styled from 'styled-components';
 
 import { colors } from '../css/variables';
+import convertRaster from '../utils/convertRaster';
+import Raster from './Raster';
 
 function PatternList(props) {
     const Root = styled.ul`
         padding: 0;
+        margin: 8vw 0 0;
+        list-style: none;
     `;
 
     const Item = styled(Link)`
@@ -19,33 +24,41 @@ function PatternList(props) {
         flex-direction: row;
 
         padding: 1rem 10vw;
-        font-family: 'Zilla Slab', serif;
-        font-weight: 400;
-        font-size: 2rem;
+        font-family: 'Roboto mono', monospace;
+        font-size: 1rem;
         line-height: 1;
         color: ${colors.heading};
         letter-spacing: 1px;
         text-align: center;
-        transition: all .35s ease;
 
-        img {
+        figure {
             position: fixed;
-            top: 23vh;
+            top: 25vh;
             right: 10vw;
             width: 50vh;
             height: 50vh;
+            margin: 0;
             opacity: 0;
             transition: all .15s ease;
             pointer-events: none;
+            opacity: 0;
         }
 
         &:hover {
             background-color: ${colors.highlight};
         }
 
-        &:hover img {
+        &:hover figure {
             opacity: 1;
         }
+    `;
+
+    const Index = styled.span`
+        display: inline-block;
+        font-family: 'Roboto mono', monospace;
+        font-weight: 300;
+        margin-right: 2rem;
+        color: #ccc;
     `;
 
     return (
@@ -53,8 +66,11 @@ function PatternList(props) {
             {props.items.map((item, index) => (
                 <li key={index}>
                     <Item to={item.path}>
-                        <img src={`${__PATH_PREFIX__}/${item.slug}.svg`} />
+                        <figure>
+                            <Raster points={convertRaster(20, item.raster)} size={20} />
+                        </figure>
 
+                        <Index>{leftPad(index, 3, '0')}</Index>
                         {item.title}
                     </Item>
                 </li>
