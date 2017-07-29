@@ -21,42 +21,42 @@ Judges score better than others on some cognitive illusions like the framing eff
 Let's see how the anchoring effect can be leveraged for digital products and services. Because anchoring is often associated with the judgment of numerical values, we'll find here examples solely related to pricing strategies.
 
 
-### Present the highest price first
+### Highest price first
 
 Anchor the price of the most expensive package of your product to the user's mind by listing it first. This order makes the subsequent plan seem like a bargain.
 
 ![](01-highest-price-first.png)
 
 
-### Present the lower price first
+### Lower price first
 
 Wait, didn't you just say the opposite? If the price difference is not too high, try to anchor the lower price. Therefore the slightly more expensive but significantly more valuable offer looks like a steal.
 
 ![](02-lowest-price-first.png)
 
 
-### List higher-priced unrelated products
+### Listing higher-priced unrelated products
 
 A study shows that exposure to higher prices, even for unrelated products can impact people's willingness to pay for goods and services. ([Nunes & Boatwright, 2004](https://msbfile03.usc.edu/digitalmeasures/jnunes/intellcont/Incidental%20Prices-1.pdf))
 
 ![](03-exposure-to-unrelated-products.png)
 
 
-### Expose users to any high number
+### Exposing users to any high number
 
 Anchoring works with any number, no matter whether that number is a price. ([Adaval & Monroe, 2002](http://www.jstor.org/stable/10.1086/338212?seq=1#page_scan_tab_contents))
 
 ![](04-any-high-number.png)
 
 
-### Use a multiple-unit pricing
+### Multiple-unit pricing
 
 The number of units in a promotion shown to customers serves as an anchor and increases sales. ([Wansink, Kent & Hoch, 1998](http://foodpsychology.cornell.edu/sites/default/files/unmanaged_files/Anchoring-JMR-1998.pdf))
 
 ![](05-multiple-unit-pricing.png)
 
 
-### Expose users to a quantity limit
+### Exposing users to a quantity limit
 
 A study evaluated if setting quantity limits affects the shopping behavior. Buyers purchased an average of 3.3 cans of soup when they had no limit, whereas shoppers with a limit of 12 bought an average of 7 cans. ([Wansink, Kent & Hoch, 1998](http://foodpsychology.cornell.edu/sites/default/files/unmanaged_files/Anchoring-JMR-1998.pdf))
 
