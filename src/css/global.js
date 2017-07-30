@@ -1,6 +1,6 @@
 import { injectGlobal } from 'styled-components';
 
-import { colors } from './variables';
+import { colors, fonts } from './variables';
 
 // eslint-disable-next-line no-unused-expressions
 injectGlobal`
@@ -12,7 +12,7 @@ injectGlobal`
 
     html {
         font-size: 14px;
-        font-family: 'Roboto', sans-serif;
+        font-family: ${fonts.text};
         line-height: 1.6;
 
         @media (min-width: 500px) {
@@ -33,7 +33,7 @@ injectGlobal`
 
     h1, h2, h3 {
         color: ${colors.heading};
-        font-family: 'Roboto Mono', monospace;
+        font-family: ${fonts.heading};
         letter-spacing: 1px;
         line-height: 1;
     }

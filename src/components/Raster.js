@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import { colors } from '../css/variables';
+
 function Raster(props) {
     const size = props.size;
     const grid = [];
@@ -19,7 +21,7 @@ function Raster(props) {
 
     const Point = styled.div`
         background-color: ${(props) => {
-            return props.active ? '#ddd' : 'transparent';
+            return props.active ? colors.border : 'transparent';
         }};
     `;
 

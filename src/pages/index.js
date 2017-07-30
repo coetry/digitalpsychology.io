@@ -10,11 +10,7 @@ export default function Index(props) {
         title: edge.node.frontmatter.title
     })).filter((post) => post.slug !== '404');
 
-    return (
-        <div>
-            <PatternList items={posts} />
-        </div>
-    );
+    return <PatternList items={posts} />;
 }
 
 // eslint-disable-next-line no-undef

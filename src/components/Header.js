@@ -2,23 +2,15 @@ import Link from 'gatsby-link';
 import React from 'react';
 import styled from 'styled-components';
 
+import { colors } from '../css/variables';
+
 function Header() {
     const Root = styled.header`
-        flex: 0 0 auto;
+        border-right: 1px solid ${colors.border};
+        display: flex;flex: 0 0 auto;
+        padding: 2rem;
         height: 100vh;
         width: 100px;
-        padding: 2rem;
-        border-right: 1px solid #ddd;
-        display: flex;
-
-        > a {
-            border: none;
-
-            &:hover {
-                background-color: transparent;
-                color: inherit;
-            }
-        }
     `;
 
     const Title = styled.h1`

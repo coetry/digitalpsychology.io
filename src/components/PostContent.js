@@ -1,10 +1,11 @@
 import styled from 'styled-components';
 
+import { colors } from '../css/variables';
 import Container from './Container';
 
 export default styled(Container)`
     img {
-        border: 1px solid #ddd;
+        border: 1px solid ${colors.border};
     }
 
     a {

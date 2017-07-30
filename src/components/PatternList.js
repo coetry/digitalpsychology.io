@@ -6,7 +6,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import styled from 'styled-components';
 
-import { colors } from '../css/variables';
+import { colors, fonts } from '../css/variables';
 import convertRaster from '../utils/convertRaster';
 import Raster from './Raster';
 
@@ -24,7 +24,7 @@ function PatternList(props) {
         flex-direction: row;
 
         padding: 1rem 10vw;
-        font-family: 'Roboto mono', monospace;
+        font-family: ${fonts.heading};
         font-size: 1rem;
         line-height: 1;
         color: ${colors.heading};
@@ -56,10 +56,9 @@ function PatternList(props) {
 
     const Index = styled.span`
         display: inline-block;
-        font-family: 'Roboto mono', monospace;
-        font-weight: 300;
+        font-family: ${fonts.heading};
         margin-right: 2rem;
-        color: #ccc;
+        color: ${colors.textWeak};
     `;
 
     return (
