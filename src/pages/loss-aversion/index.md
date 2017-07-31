@@ -39,13 +39,41 @@ The same principle can also be applied to headlines of landing pages or blog pos
 
 ### Free trials
 
-Loss aversion is one of the reasons why free trials work so well for SaaS businesses. When for example the 30 days of the trial period end, giving up the complete service or some premium features feels like losing.
+Loss aversion is one of the reasons why free trials work so well for SaaS businesses. When for example the 30 days of the trial period end, giving up premium features or the complete service feels like losing.
 
 ![](03-free-trial.png)
+
+
+### Lazy registration
+
+Let your customers enter data into your service before even signing up. So, they get to play with the app and invest time. To be able to save their work they have to register an account. This step is then smaller than losing what they have already built.
+
+![](04-lazy-registration.png)
+
+
+### Newsletter
+
+You don't want to miss out on a great deal, right? What about posts from your favorite blogger? Provide exceptional value to your audience, and they will fear they will miss out something.
+
+![](05-newsletter.png)
+
+
+### Providing a subscription feature
+
+Do you manage a SaaS business, an online marketplace or a community platform? Let your users subscribe to get notified when a long-running task finished, a price dropped, or someone posted something new. Find out which information your users could miss out and add an ability to create an [external trigger](/trigger/) for it.
+
+![](06-subscription-feature.png)
 
 
 ### Pre-filling the shopping cart
 
 Preload the shopping cart with discounted upsells. Users will hesitate to remove them from the cart as they have already "got" them. If they don't buy the upsells now, at the discounted price, they feel they're likely to miss out on saving some money. This tactic may be considered as a dark pattern. Users can overlook the additional items and buy them without knowing it.
 
-![](04-prefill-shopping-cart.png)
+![](07-prefill-shopping-cart.png)
+
+
+### Scarcity
+
+As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by the scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
+
+![](08-scarcity.png)
