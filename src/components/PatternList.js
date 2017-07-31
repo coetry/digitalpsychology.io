@@ -13,7 +13,7 @@ import Raster from './Raster';
 function PatternList(props) {
     const Root = styled.ul`
         padding: 0;
-        margin: 8vw 0 0;
+        margin: 0;
         list-style: none;
     `;
 
