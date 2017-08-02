@@ -20,8 +20,6 @@ Investors tend to be more prone to "Myopic Loss Aversion" (MLA), a concept of a 
 
 ## Examples
 
-Loss aversion is a powerful marketing tool, and in in the digital context, it can be used to motivate a user to start or continue a desired task.
-
 
 ### Focusing on the loss in offers
 
