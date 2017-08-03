@@ -11,7 +11,7 @@ function Intro() {
     return (
         <Root>
             {`This is a library of psychological principles and patterns
-            which can be applied to digital products and marketing to enhance
+            which can be applied to digital products and online marketing to enhance
             customer experience and influence our behavior. `}
 
             Written by <a href="http://danielstefanovic.com">Daniel Stefanovic</a>.

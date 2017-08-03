@@ -41,6 +41,24 @@ First and foremost: build a great app. Once that requirement is met, make sure t
 
 
 ### 10x content marketing
-Give away value in the form of free kick-ass blog posts, webinars, ebooks, whitepapers, videos, mini-applications and so on. People got used to receiving mediocre freebies, and you're expected to give everything away. It's rarely perceived as a favor nowadays. Create something that is ten times better than the best result you can find on your topic. When your content enables someone to yield results, they are more likely to give it back by sharing it or even becoming a paying customer.
+Give away value in the form of free kick-ass blog posts, webinars, ebooks, whitepapers, videos, mini-applications and so on. People got used to receiving mediocre freebies, and you're expected to give everything away nowadays. It's rarely perceived as a favor. Create something that is ten times better than the best result you can find on your topic. When your content enables someone to yield results, they are more likely to give it back by sharing it or even becoming a paying customer. What about asking first to enter an email address before accessing the content? No, not a reciprocity-invoking tactic.
 
 ![](04-content-marketing.png)
+
+
+### Show your face in cold emails
+In a study, subjects were requested to fill out a survey, which they received by email. Attaching a sender's photograph at the end of the email increased the compliance rate ([Guéguen & Jacob, 2004](http://online.liebertpub.com/doi/abs/10.1089/109493102753770525)). That's exactly what Stephen Twomey did in [an experiment](https://justreachout.io/blog/howto-increase-response-rate-email-pitch/) where he pitched his guest posts. He increased the response rate with this technique by 333.33%.
+
+![](05-face-email.png)
+
+
+### Break your anonymity and build trust
+Use the same principle in other areas to increase the likelihood of reciprocity: add an author box to each blog post, show the faces behind your brand on your social media accounts or create an "About Us" page for your product. Trust and reciprocity often go hand in hand ([Berg, Dickhaut & McCabe, 1995](http://www.sciencedirect.com/science/article/pii/S0899825685710275)).
+
+![](06-break-your-anonymity.png)
+
+
+### Free coaching sessions
+This act works like the previously mentioned content marketing freebies, but instead of being anonymous the attendee has to put away his anonymity. A study shows that people who received a favor and were required to put their contact information on a pledge card were more likely to comply with the donation request ([Whatley, Webster, Smith & Rhodes, 1999](https://www.researchgate.net/publication/247808309_The_Effect_of_a_Favor_on_Public_and_Private_Compliance_How_Internalized_is_the_Norm_of_Reciprocity)).
+
+![](07-free-consultation.png)
