@@ -62,3 +62,9 @@ Use the same principle in other areas to increase the likelihood of reciprocity:
 This act works like the previously mentioned content marketing freebies, but instead of being anonymous the attendee has to put away his anonymity. A study shows that people who received a favor and were required to put their contact information on a pledge card were more likely to comply with the donation request ([Whatley, Webster, Smith & Rhodes, 1999](https://www.researchgate.net/publication/247808309_The_Effect_of_a_Favor_on_Public_and_Private_Compliance_How_Internalized_is_the_Norm_of_Reciprocity)).
 
 ![](07-free-consultation.png)
+
+
+### Messaging
+Following the reciprocity rule, when a user gets a message within Whatsapp, Facebook, Snapchat or elsewhere, the recipient is somewhat obligated to send something back. In Snapchat is this effect increased even more because "Snaps" disappear in seconds. You need to reply promptly before you forget what you've got.
+
+![](08-messaging.png)
