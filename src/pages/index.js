@@ -6,7 +6,7 @@ import PatternList from '../components/PatternList';
 export default function Index(props) {
     const posts = props.data.allMarkdownRemark.edges.map((edge) => ({
         path: edge.node.fields.path,
-        raster: edge.node.frontmatter.raster,
+        image: edge.node.frontmatter.image,
         slug: edge.node.fields.slug,
         title: edge.node.frontmatter.title
     })).filter((post) => post.slug !== '404');
@@ -34,7 +34,7 @@ export const pageQuery = graphql`
                         slug
                     }
                     frontmatter {
-                        raster
+                        image
                         title
                     }
                 }

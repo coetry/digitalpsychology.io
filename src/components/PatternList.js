@@ -67,7 +67,7 @@ function PatternList(props) {
                 <li key={index}>
                     <Item to={item.path}>
                         <figure>
-                            <Raster points={convertRaster(20, item.raster)} size={20} />
+                            <Raster points={convertRaster(20, item.image)} size={20} />
                         </figure>
 
                         <Index>{leftPad(index, 3, '0')}</Index>
