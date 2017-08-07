@@ -49,7 +49,7 @@ Let your customers enter data into your service before even signing up. So, they
 ![](04-lazy-registration.png)
 
 
-### Newsletter
+### Newsletters
 
 You don't want to miss out on a great deal, right? What about posts from your favorite blogger? Provide exceptional value to your audience, and they will fear they will miss out something.
 

@@ -46,13 +46,13 @@ Give away value in the form of free kick-ass blog posts, webinars, ebooks, white
 ![](04-content-marketing.png)
 
 
-### Show your face in cold emails
+### Showing your face in cold emails
 In a study, subjects were requested to fill out a survey, which they received by email. Attaching a sender's photograph at the end of the email increased the compliance rate ([Guéguen & Jacob, 2004](http://online.liebertpub.com/doi/abs/10.1089/109493102753770525)). That's exactly what Stephen Twomey did in [an experiment](https://justreachout.io/blog/howto-increase-response-rate-email-pitch/) where he pitched his guest posts. He increased the response rate with this technique by 333.33%.
 
 ![](05-face-email.png)
 
 
-### Break your anonymity and build trust
+### Building trust by breaking anonymity
 Use the same principle in other areas to increase the likelihood of reciprocity: add an author box to each blog post, show the faces behind your brand on your social media accounts or create an "About Us" page for your product. Trust and reciprocity often go hand in hand ([Berg, Dickhaut & McCabe, 1995](http://www.sciencedirect.com/science/article/pii/S0899825685710275)).
 
 ![](06-break-your-anonymity.png)
