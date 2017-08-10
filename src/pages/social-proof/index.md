@@ -24,28 +24,41 @@ Displaying quotes from happy customers is one of the most used and most persuasi
 
 ![](01-testimonials.png)
 
+
 ### Social shares
 Showing the raw number of social shares is a simple form of implementing social proof. People are more likely to read an article that has been shared by thousands. It gives it more credibility and encourages even more shares. But be careful. A low share count can create a negative social proof and is worse than no share count at all. People might think that the content you're providing isn’t good enough. [In an experiment by VWO](https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/), the removal of social sharing buttons led to an 11.9% conversion increase.
+
+![](02-social-shares.png)
 
 
 ### Accumulated share count
 Instead of displaying every counter separately, you can show the total number of shares across the different social networks to expose the user to an even higher number.
 
+![](03-accumulated-share-count.png)
+
 
 ### Subscriber count
 Show the people how many fans, subscribers or followers you have. You can use the official [Twitter follow button](https://publish.twitter.com/#), the [Facebook page plugin](https://developers.facebook.com/docs/plugins/page-plugin) or the provided plugin of the community of your choice. Most bigger platforms also provide a public API for developers, where alternatively the subscriber count can be fetched from.
+
+![](04-subscriber-count.png)
 
 
 ### Reviews
 According to the [Pew Research Center](http://www.pewinternet.org/2016/12/19/online-reviews/), 82% of Americans read reviews before making a buying decision, and this prepurchase ritual is growing. Furthermore, we are paying more attention to highly negative reviews than to the extremely positive ones. Therefore check review sites like Yelp regularly to know what's being said about your brand and products. If you own an e-commerce store, displaying customer reviews can increase the conversion rate by [207%](https://www.yotpo.com/blog/ecommerce-conversion-rate/). A healthy mix of positive and [negative customer reviews](https://www.crazyegg.com/blog/negative-reviews/) is more trustworthy and can even improve conversions.
 
+![](05-reviews.png)
+
 
 ### Influencer endorsements
 Give your product away for free to people with a high social media influence in a niche area and ask them for feedback. Another way is to sponsor these (micro) influencers to post your product on their channels. Since they have a positive reputation, people tend to associate this positivity with anything else they are involved with. This cognitive bias is called the Halo Effect.
 
+![](06-influencer-marketing.png)
+
 
 ### Quoting celebrities
 Instead of having someone talk about your product, find a quote from a celebrity or an influencer that supports a bigger picture of your industry. Even they are not directly associated with your product, showing a quote with a picture of them can add social proof.
+
+![](07-quoting-celebrities.png)
 
 
 ### Customer case studies
