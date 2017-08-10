@@ -22,6 +22,7 @@ A study found that a one-star increase in Yelp ratings led to a 5-9% growth in s
 ### Testimonials
 Displaying quotes from happy customers is one of the most used and most persuasive forms of social proof online. Be sure to add a high-quality photo to boost the perceived credibility ([Newman, Garry, Bernstein, Kantner & Lindsay, 2012](https://www.ncbi.nlm.nih.gov/pubmed/22869334)).
 
+![](01-testimonials.png)
 
 ### Social shares
 Showing the raw number of social shares is a simple form of implementing social proof. People are more likely to read an article that has been shared by thousands. It gives it more credibility and encourages even more shares. But be careful. A low share count can create a negative social proof and is worse than no share count at all. People might think that the content you're providing isn’t good enough. [In an experiment by VWO](https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/), the removal of social sharing buttons led to an 11.9% conversion increase.
@@ -71,3 +72,5 @@ You can even go further and not only mention these figures on your website but a
 - Certifications
 - recommending to friends
 - Test Results
+- Social Media Posts
+- video testimonials
