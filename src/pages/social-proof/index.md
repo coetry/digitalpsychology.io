@@ -64,21 +64,31 @@ Instead of having someone talk about your product, find a quote from a celebrity
 ### Customer case studies
 Tell an in-depth story of how some of your customers use your product. This technique does provide not only social proof but also gives other potential clients ideas how to use your product or service.
 
+![](08-customer-case-studies.png)
+
 
 ### Media mentions
 Did a recognized media outlet give you a positive endorsement? Let others know it by featuring their logo in a classical "as seen in" showcase or by quoting positive things they say. Consumers often trust big publishers, so showing that they have mentioned you, improves your brand's legitimacy and trustworthiness.
+
+![](09-media-mentions.png)
 
 
 ### Integrations
 List other well-known products your service integrates with. Similar to the media mentions or quotes from celebrities there can also show up the Halo Effect which can positively influence your brand's credibility.
 
+![](10-integrations.png)
+
 
 ### Raw numbers
 Expose your visitors to huge numbers on anything from your mailing list, customer base or the number of downloads to any relevant statistics that reminds potential customers that a large crowd is using your service – so it must be good enough for them. Wordpress, for example, uses this powerful tactic in the headline of their landing page: "WordPress powers 28% of the internet".
 
+![](11-raw-numbers.png)
+
 
 ### Numbers in social account bio
 You can even go further and not only mention these figures on your website but also in the description field of your social media accounts.
+
+![](12-numbers-in-bio.png)
 
 
 - Sold out
