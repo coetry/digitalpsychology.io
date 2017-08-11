@@ -67,7 +67,7 @@ A single-unit auction combines several scarcity elements at the same time: it's 
 ![](08-online-auctions.png)
 
 
-### Limiting feature or content availability
+### Restricting features and content availability
 In today's online world, everything seems to be permanently available in abundance. Snapchat has reintroduced scarcity into the entertainment section. If you miss a story on Snapchat, which is only 24 hours available, you will never see it again. This feature is definitely one part of the app which makes it so sticky and persuades users to come back. Is there something in your product which can be artificially made scarce?
 
 ![](09-limiting-feature-availability.png)

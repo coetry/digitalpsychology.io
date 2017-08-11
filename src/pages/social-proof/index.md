@@ -44,7 +44,7 @@ Show the people how many fans, subscribers or followers you have. You can use th
 
 
 ### Reviews
-According to the [Pew Research Center](http://www.pewinternet.org/2016/12/19/online-reviews/), 82% of Americans read reviews before making a buying decision, and this prepurchase ritual is growing. Furthermore, we are paying more attention to highly negative reviews than to the extremely positive ones. Therefore check review sites like Yelp regularly to know what's being said about your brand and products. If you own an e-commerce store, displaying customer reviews can increase the conversion rate by [207%](https://www.yotpo.com/blog/ecommerce-conversion-rate/). A healthy mix of positive and [negative customer reviews](https://www.crazyegg.com/blog/negative-reviews/) is more trustworthy and can even improve conversions.
+According to the [Pew Research Center](http://www.pewinternet.org/2016/12/19/online-reviews/), 82% of Americans read reviews before making a buying decision. Furthermore, we are paying more attention to highly negative reviews than to the extremely positive ones. Therefore check review sites like Yelp regularly to know what's being said about your brand and products. If you own an e-commerce store, displaying customer reviews can increase the conversion rate by [207%](https://www.yotpo.com/blog/ecommerce-conversion-rate/). A healthy mix of positive and negative customer reviews is more trustworthy and [can even improve conversions](https://www.crazyegg.com/blog/negative-reviews/).
 
 ![](05-reviews.png)
 
@@ -73,7 +73,7 @@ Did a recognized media outlet give you a positive endorsement? Let others know i
 ![](09-media-mentions.png)
 
 
-### Integrations
+### Integration with other platforms
 List other well-known products your service integrates with. Similar to the media mentions or quotes from celebrities there can also show up the Halo Effect which can positively influence your brand's credibility.
 
 ![](10-integrations.png)
@@ -91,9 +91,49 @@ You can even go further and not only mention these figures on your website but a
 ![](12-numbers-in-bio.png)
 
 
-- Sold out
-- Certifications
-- recommending to friends
-- Test Results
-- Social Media Posts
-- video testimonials
+### Video testimonials
+It's one thing to read about somebody's experience with your service or product. It's another to see and hear someone tell others how much they enjoy it. Allowing your prospects to immerse directly into the world of another customer, will go much further in building trust.
+
+![](13-video-testimonials.png)
+
+
+### Real-time statistics
+Present real-time data to your visitors such as "89 people are shopping right now." or "Last purchase of this course was from 7 minutes ago." to build trust and create a sense of urgency.
+
+![](14-real-time-statistics.png)
+
+
+### Live feed of user activity
+Show your visitors that others are right now purchasing products, publishing posts or doing something else that's relevant to your service. It's not only adding social proof but also enhances the discovery of items on your website.
+
+![](15-live-feed.png)
+
+
+### Sold out
+Have you ever wondered why some online stores leave items that have sold out on their website? It's the combination of social proof and [loss aversion](/loss-aversion/): What others buy, it's safe for me to purchase too coupled with the fear of missing out again.
+
+![](16-sold-out.png)
+
+
+### Referrals
+Attract new customers using social proof by offering a referral bonus for sending friends and family to the site. Recommendations from people we know personally continue to be the most trusted source for referrals ([Nielsen, 2012](http://www.nielsen.com/us/en/insights/news/2012/trust-in-advertising--paid-owned-and-earned.html)).
+
+![](17-referrals.png)
+
+
+### Formal standard certifications
+If your company operates in regulated industries, add credibility to your website by demonstrating that your business meets requirements of national or international standards organizations such as ANSI or ISO.
+
+![](18-formal-standard-certifcations.png)
+
+
+### Verified social media accounts
+Request a verification of your profile on Twitter, Instagram, Facebook or another platform where you're active, and you will usually receive a blue checkmark next to your name. This badge indicates that the social media platform deemed that your account is of public interest, authentic and influential.
+
+![](19-verified-social-media-account.png)
+
+
+### Trust seals and badges
+If a stranger would ask you for your credit card details, how would you feel? Hesitant? Uncomfortable? Doubtful? Such feelings are similar to those your customers may experience. Establish more credibility and legitimacy by displaying trust seals, security certificates or association memberships.
+
+![](20-trust-seals.png)
