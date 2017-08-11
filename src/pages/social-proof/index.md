@@ -11,6 +11,8 @@ People are pack animals. We are more likely to do something when presented with 
 
 ## Studies
 
+Participants in a study were asked to identify a criminal suspect from a line-up. They saw the pictures very quickly so that it was difficult to be confident about their judgments. The task was performed in a group that consisted of one actual subject and two confederates of the experimenter. These two each choose the wrong person from the line-up. The subjects knowingly gave an incorrect answer so as not to disagree with the others when they were told the results were of little importance for pilot data but were less likely to conform when they were told that the police and court would use their response. ([Baron, Vandello & Brunsman, 1996](http://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.71.5.915))
+
 A study found that a one-star increase in Yelp ratings led to a 5-9% growth in sales. ([Luca, 2011](https://www.scribd.com/fullscreen/67460062))
 
 92% of people trust recommendations from their peers, and 70% of the consumers trust a recommendation from someone they don’t even know. ([Nielsen, 2012](http://www.nielsen.com/us/en/insights/news/2012/trust-in-advertising--paid-owned-and-earned.html))
