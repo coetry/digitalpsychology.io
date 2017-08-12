@@ -15,8 +15,8 @@ function Raster(props) {
         display: grid;
         grid-template-columns: repeat(${size}, 1fr);
         grid-gap: 1px;
-        width: 50vh;
-        height: 50vh;
+        width: 25vw;
+        height: 25vw;
     `;
 
     const Point = styled.div`

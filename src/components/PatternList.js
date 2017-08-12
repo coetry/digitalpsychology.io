@@ -18,6 +18,7 @@ function PatternList(props) {
     `;
 
     const Item = styled(Link)`
+        position: relative;
         display: flex;
         justify-content: flext-start;
         align-items: center;
@@ -32,20 +33,19 @@ function PatternList(props) {
         text-align: center;
 
         figure {
-            position: fixed;
-            top: 25vh;
-            right: 10vw;
-            width: 50vh;
-            height: 50vh;
+            position: absolute;
+            top: -9vw;
+            right: ${sizes.xl};
             margin: 0;
             opacity: 0;
             transition: all .15s ease;
             pointer-events: none;
             opacity: 0;
+            z-index: -1;
         }
 
         &:hover {
-            background-color: ${colors.highlight};
+            background-color: rgba(0, 0, 0, 0.03);
             color: ${colors.heading};
         }
 
