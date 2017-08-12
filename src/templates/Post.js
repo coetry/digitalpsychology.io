@@ -1,8 +1,8 @@
 import R from 'ramda';
 import React from 'react';
 import Helmet from 'react-helmet';
-import styled from 'styled-components';
 
+import NextPost from '../components/NextPost';
 import Pagination from '../components/Pagination';
 import PostContent from '../components/PostContent';
 
@@ -15,20 +15,17 @@ function Post(props) {
     const slugPath = ['node', 'fields', 'slug'];
     const edges = R.path(edgesPath, props).filter((edge) => edge.node.fields.slug !== '404');
     const currentIndex = R.findIndex(R.pathEq(slugPath, post.fields.slug))(edges);
+    const nextTitle = R.path([currentIndex + 1, 'node', 'frontmatter', 'title'], edges);
     const nextPath = R.path([currentIndex + 1, 'node', 'fields', 'path'], edges);
     const previousPath = R.path([currentIndex - 1, 'node', 'fields', 'path'], edges);
 
-    const Root = styled.div`
-        padding: 7vw 10vw;
-    `;
-
     return (
-        <Root>
+        <div>
             <Helmet title={`${post.frontmatter.title} » ${siteTitle}`} />
             <Pagination next={nextPath} previous={previousPath} />
-            <h1>{post.frontmatter.title}</h1>
-            <PostContent dangerouslySetInnerHTML={{ __html: post.html }} />
-        </Root>
+            <PostContent content={post.html} title={post.frontmatter.title} />
+            <NextPost title={nextTitle} to={nextPath} />
+        </div>
     );
 }
 
@@ -60,6 +57,9 @@ export const pageQuery = graphql`
                     fields {
                         path
                         slug
+                    }
+                    frontmatter {
+                        title
                     }
                 }
             }

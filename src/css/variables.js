@@ -11,3 +11,13 @@ export const fonts = {
     heading: `'Roboto mono', monospace`,
     text: `'Roboto', sans-serif`
 };
+
+export const linkStyle = `
+    border-bottom: 1px dotted ${colors.heading};
+    color: ${colors.heading};
+
+    &:hover {
+        background-color: ${colors.heading};
+        color: #fff;
+    }
+`;
