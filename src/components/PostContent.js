@@ -1,12 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import { colors, linkStyle } from '../css/variables';
+import { colors, linkStyle, sizes } from '../css/variables';
 import Container from './Container';
 
 export default function PostContent(props) {
     const Root = styled(Container)`
-        margin: 7vw 10vw;
+        margin: ${sizes.l} ${sizes.xl};
 
         img {
             border: 1px solid ${colors.border};

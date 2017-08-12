@@ -2,13 +2,13 @@ import Link from 'gatsby-link';
 import React from 'react';
 import styled from 'styled-components';
 
-import { linkStyle } from '../css/variables';
+import { linkStyle, sizes } from '../css/variables';
 
 function NextPost(props) {
     if (!props.to) return null;
 
     const Root = styled.div`
-        padding: 0 10vw 7vw;
+        padding: 0 ${sizes.xl} ${sizes.l};
     `;
 
     const Anchor = styled(Link)`

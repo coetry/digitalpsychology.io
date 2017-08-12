@@ -1,6 +1,6 @@
 export const colors = {
     bg: '#fff',
-    border: '#e8e8e8',
+    border: '#eaeaea',
     heading: '#000',
     highlight: '#f6f6f6',
     text: '#666',
@@ -11,6 +11,11 @@ export const fonts = {
     heading: `'Roboto mono', monospace`,
     text: `'Roboto', sans-serif`
 };
+
+export const sizes = {
+    xl: '15vw',
+    l: '12vw'
+}
 
 export const linkStyle = `
     border-bottom: 1px dotted ${colors.heading};

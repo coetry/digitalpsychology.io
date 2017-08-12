@@ -6,14 +6,14 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import styled from 'styled-components';
 
-import { colors, fonts } from '../css/variables';
+import { colors, fonts, sizes } from '../css/variables';
 import convertRaster from '../utils/convertRaster';
 import Raster from './Raster';
 
 function PatternList(props) {
     const Root = styled.ul`
         padding: 0;
-        margin: 8vw 0;
+        margin: ${sizes.l} 0;
         list-style: none;
     `;
 
@@ -23,7 +23,7 @@ function PatternList(props) {
         align-items: center;
         flex-direction: row;
 
-        padding: 1rem 10vw;
+        padding: 1rem ${sizes.xl};
         font-family: ${fonts.heading};
         font-size: 1rem;
         line-height: 1;
