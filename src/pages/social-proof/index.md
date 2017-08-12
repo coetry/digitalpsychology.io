@@ -27,7 +27,7 @@ Displaying quotes from happy customers is one of the most used and most persuasi
 ![](01-testimonials.png)
 
 
-### Social shares
+### Social share count
 Showing the raw number of social shares is a simple form of implementing social proof. People are more likely to read an article that has been shared by thousands. It gives it more credibility and encourages even more shares. But be careful. A low share count can create a negative social proof and is worse than no share count at all. People might think that the content you're providing isn’t good enough. [In an experiment by VWO](https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/), the removal of social sharing buttons led to an 11.9% conversion increase.
 
 ![](02-social-shares.png)
@@ -52,7 +52,7 @@ According to the [Pew Research Center](http://www.pewinternet.org/2016/12/19/onl
 
 
 ### Influencer endorsements
-Give your product away for free to people with a high social media influence in a niche area and ask them for feedback. Another way is to sponsor these (micro) influencers to post your product on their channels. Since they have a positive reputation, people tend to associate this positivity with anything else they are involved with. This cognitive bias is called the Halo Effect.
+Give your product away for free to people with a high social media influence in a niche area and ask them for feedback. Another way is to sponsor these (micro) influencers to post your product on their channels or even hire them for long-term relationships as brand ambassadors. Since they have a positive reputation, people tend to associate this positivity with anything else they are involved with. This cognitive bias is called the Halo Effect.
 
 ![](06-influencer-marketing.png)
 
@@ -82,13 +82,13 @@ List other well-known products your service integrates with. Similar to the medi
 
 
 ### Raw numbers
-Expose your visitors to huge numbers on anything from your mailing list, customer base or the number of downloads to any relevant statistics that reminds potential customers that a large crowd is using your service – so it must be good enough for them. Wordpress, for example, uses this powerful tactic in the headline of their landing page: "WordPress powers 28% of the internet".
+Expose your visitors to huge numbers on anything from your mailing list, customer base or the number of downloads to any relevant statistics that reminds potential customers that a large crowd is using your service – so it must be good enough for them. Wordpress, for example, uses this powerful tactic in the headline of their landing page: "WordPress powers 28% of the internet". Use exact numbers instead of rounded ones to be perceived even more believable ([Mason, Lee, Wiley & Ames, 2013](https://www8.gsb.columbia.edu/researcharchive/articles/5957)).
 
 ![](11-raw-numbers.png)
 
 
-### Numbers in social account bio
-You can even go further and not only mention these figures on your website but also in the description field of your social media accounts.
+### Mentioning numbers off-site
+You can go further and not only bring up these numbers on your website but also in the bio of your social media accounts or your ad copy.
 
 ![](12-numbers-in-bio.png)
 
@@ -139,3 +139,27 @@ Request a verification of your profile on Twitter, Instagram, Facebook or anothe
 If a stranger would ask you for your credit card details, how would you feel? Hesitant? Uncomfortable? Doubtful? Such feelings are similar to those your customers may experience. Establish more credibility and legitimacy by displaying trust seals, security certificates or association memberships.
 
 ![](20-trust-seals.png)
+
+
+### Backing up with studies
+Expose your visitors to hard facts and numbers backed by research to leverage the *expert social proof*. Present studies to your potential customers that exhibit the same benefits that your product provides.
+
+![](21-research-conclusions.png)
+
+
+### Thank publicly for received awards
+If you've won an award or been publicly honored by the media, show appreciation for such mentions on your social media channels.
+
+![](22-appreciation-for-awards.png)
+
+
+### Sharing milestones
+Celebrate growth and the accomplishment of milestones with your audience and thank them for achieving that. This can be the reach of a certain number of users, followers, downloads or an anniversary.
+
+![](23-celebrating-milestones.png)
+
+
+### Engaging brand advocates
+A brand advocate is a person who enjoys your product or service so much that they say amazing things about it. It's not just someone who leaves a good review or agrees to be quoted for testimonials. They are passionate enough to repeatedly share their positive experience with your brand, service or product. A brand advocate says things with more credibility because money does not drive them. Keep them engaged, and you’ll likely catch more advocates along the way. Here are some ideas: Provide them a branded hashtag which they can put in posts or the bio, give discounts or just send a handwritten note to let them know how much you appreciate their support.
+
+![](24-brand-advocates.png)
