@@ -6,20 +6,28 @@ import { colors } from '../css/variables';
 
 function Header() {
     const Root = styled.header`
-        border-right: 1px solid ${colors.border};
-        display: flex;flex: 0 0 auto;
+        border: 1px solid ${colors.border};
+        display: flex;
+        flex: 0 0 auto;
         overflow: hidden;
         padding: 2rem;
-        height: 100vh;
-        width: 100px;
+
+        @media (min-width: 700px) {
+            height: 100vh;
+            width: 100px;
+        }
     `;
 
     const Title = styled.h1`
         font-size: 1rem;
         letter-spacing: 1px;
-        transform: rotate(-90deg) translateX(-100%);
+        margin: 0;
         transform-origin: top left;
         white-space: nowrap;
+
+        @media (min-width: 700px) {
+             transform: rotate(-90deg) translateX(-100%);
+        }
     `;
 
     const Anchor = styled(Link)`

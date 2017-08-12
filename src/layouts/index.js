@@ -10,7 +10,12 @@ import '../css/global';
 function Template(props) {
     const Root = styled.div`
         display: flex;
+        flex-direction: column;
         height: 100vh;
+
+        @media (min-width: 700px) {
+            flex-direction: row;
+        }
     `;
 
     const Main = styled.div`
