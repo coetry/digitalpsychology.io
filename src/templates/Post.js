@@ -3,19 +3,20 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
 
-import NextPost from '../components/NextPost';
+import Pagination from '../components/Pagination';
 import PostContent from '../components/PostContent';
 
 function Post(props) {
     const post = props.data.markdownRemark;
     const siteTitle = props.data.site.siteMetadata.title;
 
-    // Get the next post path
+    // Get paths for pagination
     const edgesPath = ['data', 'allMarkdownRemark', 'edges'];
-    const edges = R.path(edgesPath, props);
     const slugPath = ['node', 'fields', 'slug'];
+    const edges = R.path(edgesPath, props).filter((edge) => edge.node.fields.slug !== '404');
     const currentIndex = R.findIndex(R.pathEq(slugPath, post.fields.slug))(edges);
-    const nextPath = R.path([...edgesPath, currentIndex + 1, 'node', 'fields', 'path'], props);
+    const nextPath = R.path([currentIndex + 1, 'node', 'fields', 'path'], edges);
+    const previousPath = R.path([currentIndex - 1, 'node', 'fields', 'path'], edges);
 
     const Root = styled.div`
         padding: 7vw 10vw;
@@ -24,7 +25,7 @@ function Post(props) {
     return (
         <Root>
             <Helmet title={`${post.frontmatter.title} » ${siteTitle}`} />
-            <NextPost to={nextPath} />
+            <Pagination next={nextPath} previous={previousPath} />
             <h1>{post.frontmatter.title}</h1>
             <PostContent dangerouslySetInnerHTML={{ __html: post.html }} />
         </Root>
