@@ -1,6 +1,5 @@
 import React from 'react';
 
-import Intro from '../components/Intro';
 import PatternList from '../components/PatternList';
 
 export default function Index(props) {
@@ -11,13 +10,7 @@ export default function Index(props) {
         title: edge.node.frontmatter.title
     })).filter((post) => post.slug !== '404');
 
-    return (
-        <div>
-            <Intro />
-            <PatternList items={posts} />
-        </div>
-    )
-    ;
+    return <PatternList items={posts} />;
 }
 
 // eslint-disable-next-line no-undef

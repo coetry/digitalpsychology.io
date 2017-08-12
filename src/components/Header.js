@@ -8,6 +8,7 @@ function Header() {
     const Root = styled.header`
         border-right: 1px solid ${colors.border};
         display: flex;flex: 0 0 auto;
+        overflow: hidden;
         padding: 2rem;
         height: 100vh;
         width: 100px;
