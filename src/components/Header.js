@@ -6,13 +6,17 @@ import { colors } from '../css/variables';
 
 function Header() {
     const Root = styled.header`
-        border: 1px solid ${colors.border};
         display: flex;
         flex: 0 0 auto;
         overflow: hidden;
         padding: 2rem;
 
+        @media (max-width: 699px) {
+            border-bottom: 1px solid ${colors.border};
+        }
+
         @media (min-width: 700px) {
+            border-right: 1px solid ${colors.border};
             height: 100vh;
             width: 100px;
         }

@@ -7,22 +7,37 @@ import { colors } from '../css/variables';
 function Pagination(props) {
     const Root = styled.div`
         position: fixed;
-        top: 2.5rem;
-        right: 2.5rem;
-        border: 1px solid ${colors.border};
+        top: 1.5rem;
+        right: 1.5rem;
+
+        @media (min-width: 700px) {
+            top: 2.5rem;
+            right: 2.5rem;
+        }
     `;
 
     const Anchor = styled(Link)`
-        color: ${colors.heading};
+        color: ${colors.border};
         display: inline-block;
-        padding: 0.25rem 1rem;
+        padding: 0.25rem 0.5rem;
         background-color: #fff;
+
+        &:hover {
+            color: ${colors.text};
+        }
+    `;
+
+    const BackToOverview = styled(Anchor)`
+        @media (max-width: 699px) {
+            display: none;
+        }
     `;
 
     return (
         <Root>
-            {props.previous && <Anchor to={props.previous}>{`←`}</Anchor>}
-            {props.next && <Anchor to={props.next}>{`→`}</Anchor>}
+            {props.previous && <Anchor to={props.previous}>{`◀`}</Anchor>}
+            <BackToOverview to="/">{`●`}</BackToOverview>
+            {props.next && <Anchor to={props.next}>{`▶`}</Anchor>}
         </Root>
     );
 }
