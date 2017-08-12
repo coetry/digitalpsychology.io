@@ -35,22 +35,24 @@ injectGlobal`
         color: ${colors.heading};
         font-family: ${fonts.heading};
         letter-spacing: 1px;
-        line-height: 1;
     }
 
     h1 {
         font-size: 3rem;
         margin: 0 0 2.5rem;
+        line-height: 1.2;
     }
 
     h2 {
         font-size: 1.5rem;
         margin: 2.5rem 0 1rem;
+        line-height: 1.6;
     }
 
     h3 {
         font-size: 1rem;
         margin: 2.5rem 0 1rem;
+        line-height: 1.6;
     }
 
     p {
