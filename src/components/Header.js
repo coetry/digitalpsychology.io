@@ -21,13 +21,17 @@ function Header() {
         white-space: nowrap;
     `;
 
+    const Anchor = styled(Link)`
+        color: ${colors.heading}
+    `;
+
     return (
         <Root>
-            <Link to="/">
-                <Title>
+            <Title>
+                <Anchor to="/">
                     {`Digital Psychology`}
-                </Title>
-            </Link>
+                </Anchor>
+             </Title>
         </Root>
     );
 }
