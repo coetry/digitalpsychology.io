@@ -2,7 +2,7 @@ export const colors = {
     bg: '#fff',
     border: '#eaeaea',
     heading: '#000',
-    highlight: '#f6f6f6',
+    highlight: '#f9f9f9',
     text: '#666',
     textWeak: '#ccc'
 };
@@ -15,7 +15,7 @@ export const fonts = {
 export const sizes = {
     xl: '15vw',
     l: '12vw'
-}
+};
 
 export const linkStyle = `
     border-bottom: 1px dotted ${colors.heading};

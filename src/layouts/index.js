@@ -3,6 +3,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import styled from 'styled-components';
 
+import Footer from '../components/Footer';
 import Header from '../components/Header';
 import config from '../../gatsby-config';
 import '../css/global';
@@ -29,6 +30,7 @@ function Template(props) {
             <Header />
             <Main>
                 {props.children()}
+                <Footer />
             </Main>
         </Root>
     );

@@ -20,7 +20,6 @@ function Pagination(props) {
         color: ${colors.border};
         display: inline-block;
         padding: 0.25rem 0.5rem;
-        background-color: #fff;
 
         &:hover {
             color: ${colors.text};
