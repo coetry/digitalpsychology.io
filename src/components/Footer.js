@@ -51,7 +51,7 @@ function Footer() {
 
                 <ul>
                     <li>
-                        <Anchor to="">
+                        <Anchor to="http://eepurl.com/cZtMOT">
                             {`Subscribe to updates`}
                         </Anchor>
                     </li>
