@@ -51,7 +51,7 @@ function Footer() {
 
                 <ul>
                     <li>
-                        <Anchor to="http://eepurl.com/cZtMOT">
+                        <Anchor to="http://bit.ly/digital-psychology-updates">
                             {`Subscribe to updates`}
                         </Anchor>
                     </li>
