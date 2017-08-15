@@ -2,7 +2,7 @@ export const colors = {
     bg: '#fff',
     border: '#eaeaea',
     heading: '#000',
-    highlight: '#f9f9f9',
+    highlight: '#f6f6f6',
     text: '#666',
     textWeak: '#ccc'
 };
