@@ -9,6 +9,7 @@ function Footer() {
     const Root = styled.div`
         padding: ${sizes.l} ${sizes.xl};
         background-color: ${colors.highlight};
+        border-top: 1px solid ${colors.border};
 
         ul {
             list-style: none;
