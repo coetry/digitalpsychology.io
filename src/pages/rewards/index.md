@@ -21,3 +21,37 @@ Researchers observed that rats respond more often with the desired behavior to p
 
 
 ## Examples
+
+
+### Privileges
+- unlock features
+- stackoverflow
+
+### Feed
+
+
+### Rank
+
+
+### Reputation points and badges
+
+
+### Highscore
+
+
+### Leaderboard
+
+
+### Money
+
+
+### Weekly upload quota
+- Vimeo
+
+
+### Freebie for signing up for the newsletter
+Get people to give you their email address by providing high-quality free stuff like e-books or online courses as an incentive they can't resist. It's especially important that you see the things from your visitor's perspective and offer something that's directly beneficial to their life. Test different titles, images, and colors to increase the conversion rate of your newsletter signup form. That's exactly what John Corcoran did which led to an [increase in sign ups by over 3000%](https://fizzle.co/sparkline/how-i-increased-my-conversion-rate).
+
+
+### Discount for referring a friend
+Offer a fixed (e.g., $25 off) or a percentage discount (e.g., 10% off) to someone who is recommending your product or service. However, according to tests conducted by Annex Cloud, [are fixed dollar amounts more compelling](http://www.annexcloud.com/blog/2016/05/26/get-people-participate-refer-a-friend-programs/) than a percentage off the purchase. The timing for asking for referrals is also crucial: Don't expect someone to provide a recommendation if he's not completely satisfied. Ask them when they're already on a dopamine high: right after a successful purchase or after completing an important or lengthy task in your application.

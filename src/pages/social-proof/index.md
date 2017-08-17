@@ -53,13 +53,13 @@ According to the [Pew Research Center](http://www.pewinternet.org/2016/12/19/onl
 
 
 ### Influencer endorsements
-Give your product away for free to people with a high social media influence in a niche area and ask them for feedback. Another way is to sponsor these (micro) influencers to post your product on their channels or even hire them for long-term relationships as brand ambassadors. Since they have a positive reputation, people tend to associate this positivity with anything else they are involved with. This cognitive bias is called the Halo Effect.
+Give your product away for free to people with a high social media influence in a niche area and ask them for feedback. Another way is to sponsor these (micro) influencers to post your product on their channels or even hire them for long-term relationships as brand ambassadors. Since they have a positive reputation, people tend to associate this positivity with anything else they are involved with. This cognitive bias is called the *halo effect*.
 
 ![](06-influencer-marketing.png)
 
 
 ### Quoting celebrities
-Instead of having someone talk about your product, find a quote from a celebrity or an influencer that supports a bigger picture of your industry. Even they are not directly associated with your product, showing a quote with a picture of them can add social proof.
+Instead of having someone talk about your product, find a quote from a celebrity or an influencer that supports a bigger picture of your industry. Even they are not directly associated with your product, showing a quote with a picture of them can add social proof through the halo effect.
 
 ![](07-quoting-celebrities.png)
 
@@ -77,7 +77,7 @@ Did a recognized media outlet give you a positive endorsement? Let others know i
 
 
 ### Integration with other platforms
-List other well-known products your service integrates with. Similar to the media mentions or quotes from celebrities there can also show up the Halo Effect which can positively influence your brand's credibility.
+List other well-known products your service integrates with. Similar to the media mentions or quotes from celebrities there can also show up the halo effect which can positively influence your brand's credibility.
 
 ![](10-integrations.png)
 
