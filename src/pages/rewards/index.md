@@ -29,8 +29,8 @@ Points are a form of positive reinforcement in gamified environments. They give 
 ![](01-points.png)
 
 
-### Badges, trophies, and ribbons
-A badge is a visible acknowledgment received for a particular action, a period of activity or as a result of another reward. These days badges have not the best reputation in the gamification community because they're overused, especially in combination with points and leaderboards (PBL). But they can be effective when they represent something meaningful. Organizations like the military use a similar mechanic to get people to take incredible action. Used wisely, badges can provide trust and reputation in community or marketplace platforms. Try to avoid to award quantity over quality. Consider raising the bar or limiting the availability of some badges to play up the [scarcity](/scarcity/) game.
+### Badges, trophies, ribbons and levels
+A badge, or a similar concept, is a visible acknowledgment received for a particular action, a period of activity or as a result of another reward. These days badges have not the best reputation in the gamification community because they're overused, especially in combination with points and leaderboards (PBL). But they can be effective when they represent something meaningful. Organizations like the military use a similar mechanic to get people to take incredible action. Used wisely, badges can provide trust and reputation in community or marketplace platforms. Try to avoid to award quantity over quality. Consider raising the bar or limiting the availability of some badges to play up the [scarcity](/scarcity/) game.
 
 ![](02-badges.png)
 
