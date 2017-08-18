@@ -23,9 +23,19 @@ Researchers observed that rats respond more often with the desired behavior to p
 ## Examples
 
 
-### Privileges
-- unlock features
-- stackoverflow
+### Point systems
+Points are a form of positive reinforcement in gamified environments. They give feedback to people on how they are progressing. To spur even more the desired behaviors, they can be weighted. If your goal is to drive more user-generated content, give more points to those who create posts than to those who are just liking existing ones. While this game mechanic is interesting, users are not in the system for the points. Reaching a specific amount should yield to additional rewards like the next level, badges or more tangible benefits like discounts, freebies and so on. Or even better: Promote intrinsic values. Sites like StackOverflow, a community for programmers, use points to indicate the reputation their users. Helpful advice gets upvoted by others and therefore the more points someone has, the more is he perceived as knowledgeable.
+
+
+### Unlock features
+- privilege
+- stackoverflow, online community for programmers
+
+
+### Early access to (beta) products
+- privilege
+- waitlist
+
 
 ### Feed
 
@@ -33,7 +43,10 @@ Researchers observed that rats respond more often with the desired behavior to p
 ### Rank
 
 
-### Reputation points and badges
+### Badges and achievements
+
+
+### Follower count
 
 
 ### Highscore
@@ -42,7 +55,10 @@ Researchers observed that rats respond more often with the desired behavior to p
 ### Leaderboard
 
 
-### Money
+### Loyalty programs
+- "It is now well recognized that an old customer retained is worth more than a new customer won"
+- https://hbr.org/2006/04/your-loyalty-program-is-betraying-you
+- http://prloyaltymarketing.com/review-of-article-by-nunes-and-dreze-2006/
 
 
 ### Weekly upload quota
@@ -55,3 +71,9 @@ Get people to give you their email address by providing high-quality free stuff 
 
 ### Discount for referring a friend
 Offer a fixed (e.g., $25 off) or a percentage discount (e.g., 10% off) to someone who is recommending your product or service. However, according to tests conducted by Annex Cloud, [are fixed dollar amounts more compelling](http://www.annexcloud.com/blog/2016/05/26/get-people-participate-refer-a-friend-programs/) than a percentage off the purchase. The timing for asking for referrals is also crucial: Don't expect someone to provide a recommendation if he's not completely satisfied. Ask them when they're already on a dopamine high: right after a successful purchase or after completing an important or lengthy task in your application.
+
+
+### Monetary rewards
+other monetary rewards:
+- free shipping
+- redemptions
