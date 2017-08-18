@@ -24,7 +24,7 @@ Researchers observed that rats respond more often with the desired behavior to p
 
 
 ### Point systems
-Points are a form of positive reinforcement in gamified environments. They give feedback to people on how they are progressing. To spur even more the desired behaviors, they can be weighted. If your goal is to drive more user-generated content, give more points to those who create posts than to those who are just liking existing ones. While this game mechanic is interesting, users are not in the system for the points. Reaching a specific amount should yield to additional rewards like the next level, badges or more tangible benefits like discounts, freebies and so on. Or even better: Promote intrinsic values. Sites like StackOverflow, a community for programmers, use points to indicate the reputation their users. Helpful advice gets upvoted by others and therefore the more points someone has, the more is he perceived as knowledgeable.
+Points are a form of positive reinforcement in gamified environments. They give feedback to people on how they are progressing. To spur even more the desired behaviors, they can be weighted. If your goal is to drive more user-generated content, give more points to those who create posts than to those who are just liking existing ones. While this game mechanic is interesting, users are not in the system for the points. Reaching a specific amount should yield to additional rewards like the next level, badges or more tangible benefits like discounts, freebies and so on. Or even better: Promote intrinsic values. Sites like StackOverflow, a question-and-answer site for programmers, use points to indicate the reputation their users. Helpful advice gets upvoted by others and therefore the more points someone has, the more is he perceived as knowledgeable.
 
 ![](01-points.png)
 
@@ -35,9 +35,10 @@ A badge, or a similar concept, is a visible acknowledgment received for a partic
 ![](02-badges.png)
 
 
-### Unlock features
-- privilege
-- stackoverflow, online community for programmers
+### Unlocking features
+Another way to reward users virtually is to grant them more privileges when they have performed certain actions or reached a specific amount of points. This unlockable features can be things from increased voting rights up to moderation power.
+
+![](03-unlock-features.png)
 
 
 ### Early access to (beta) products
