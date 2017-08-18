@@ -26,6 +26,14 @@ Researchers observed that rats respond more often with the desired behavior to p
 ### Point systems
 Points are a form of positive reinforcement in gamified environments. They give feedback to people on how they are progressing. To spur even more the desired behaviors, they can be weighted. If your goal is to drive more user-generated content, give more points to those who create posts than to those who are just liking existing ones. While this game mechanic is interesting, users are not in the system for the points. Reaching a specific amount should yield to additional rewards like the next level, badges or more tangible benefits like discounts, freebies and so on. Or even better: Promote intrinsic values. Sites like StackOverflow, a community for programmers, use points to indicate the reputation their users. Helpful advice gets upvoted by others and therefore the more points someone has, the more is he perceived as knowledgeable.
 
+![](01-points.png)
+
+
+### Badges, trophies, and ribbons
+A badge is a visible acknowledgment received for a particular action, a period of activity or as a result of another reward. These days badges have not the best reputation in the gamification community because they're overused, especially in combination with points and leaderboards (PBL). But they can be effective when they represent something meaningful. Organizations like the military use a similar mechanic to get people to take incredible action. Used wisely, badges can provide trust and reputation in community or marketplace platforms. Try to avoid to award quantity over quality. Consider raising the bar or limiting the availability of some badges to play up the [scarcity](/scarcity/) game.
+
+![](02-badges.png)
+
 
 ### Unlock features
 - privilege
@@ -41,9 +49,6 @@ Points are a form of positive reinforcement in gamified environments. They give 
 
 
 ### Rank
-
-
-### Badges and achievements
 
 
 ### Follower count
