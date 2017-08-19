@@ -47,16 +47,18 @@ Reward your early adopters and loyal customers with no extra content – you jus
 ![](04-early-access.png)
 
 
+### Self-disclosure
+A Harvard study shows that sharing information about ourselves stimulates the same parts of the brain which are also activated by pleasurable activities as we get from eating or having sex. They also found that sharing our thoughts and opinions to other persons yields to even more activity in the reward region of the brain than if we keep it private ([Tamir & Mitchell, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361411/)). That's for sure one reason why social media sites are so addictive to many people and why even crimes are posted or [broadcasted live](https://www.theguardian.com/technology/2017/jan/27/rising-numbers-of-criminals-are-using-facebook-to-document-their-crimes) on Facebook.
+
+
+### Likes, views, retweets, and followers
+It is clear that positive reinforcement is a big motivating factor. And what can be online more pleasant than getting views, retweets or likes for things that we post? It seems that we're constantly chasing other people's approval. But what we don't know is, if a post will be rewarded with more attention than the previous one, which encourages us to come back over and over again (variable reward).
+
+
 ### Feed
 
 
 ### Rank
-
-
-### Follower count
-
-
-### Likes, view count
 
 
 ### affiliate
@@ -66,6 +68,10 @@ Reward your early adopters and loyal customers with no extra content – you jus
 
 
 ### Leaderboard
+
+
+### Physical items
+- Youtube play button
 
 
 ### Loyalty programs
