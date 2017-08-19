@@ -41,9 +41,10 @@ Another way to reward users virtually is to grant them more privileges when they
 ![](03-unlock-features.png)
 
 
-### Early access to (beta) products
-- privilege
-- waitlist
+### Early access
+Reward your early adopters and loyal customers with no extra content – you just take the great stuff you're already creating and allow some people to see it before the crowd. Let an exclusive group get notified earlier about discounts, try beta versions of your new applications or download e-books before it's public to everyone. This tactic also gives you the opportunity to add [social proof](/social-proof/) in advance of a launch by getting user reviews.
+
+![](04-early-access.png)
 
 
 ### Feed
@@ -53,6 +54,12 @@ Another way to reward users virtually is to grant them more privileges when they
 
 
 ### Follower count
+
+
+### Likes, view count
+
+
+### affiliate
 
 
 ### Highscore
