@@ -47,15 +47,20 @@ Reward your early adopters and loyal customers with no extra content – you jus
 ![](04-early-access.png)
 
 
+### Fame through likes, views, and followers
+It is clear that positive reinforcement is a big motivating factor. And what can be online more pleasant than getting views, retweets or likes for things that we post or tweet? It seems that we're constantly chasing other people's approval and wonder how much social validation our creations will receive. Its unpredictability makes it more intriguing. We don't know whether a post will be rewarded with more attention than the previous one, which encourages us to come back over and over again (variable reward).
+
+
+### Commenting
+Wall posts, direct messages, and comments are more satisfying than “one-click communication” such as likes and pokes. When people receive messages from close friends on social media sites, they feel less lonely, are happier and healthier ([Burke, 2011](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1187&context=dissertations)). Reply to your fan's and follower's comments, also to the negative ones. Your response could take a bad situation to a very positive customer service experience. Or go even further and make commenting a part of your digital product.
+
+
 ### Self-disclosure
-A Harvard study shows that sharing information about ourselves stimulates the same parts of the brain which are also activated by pleasurable activities as we get from eating or having sex. They also found that sharing our thoughts and opinions to other persons yields to even more activity in the reward region of the brain than if we keep it private ([Tamir & Mitchell, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361411/)). That's for sure one reason why social media sites are so addictive to many people and why even crimes are posted or [broadcasted live](https://www.theguardian.com/technology/2017/jan/27/rising-numbers-of-criminals-are-using-facebook-to-document-their-crimes) on Facebook.
+A Harvard study shows that sharing information about ourselves stimulates the same parts of the brain which are also activated by pleasurable activities as we get from eating or having sex. They also found that sharing our thoughts and opinions to other persons yields to even more activity in the reward region than if we keep it private ([Tamir & Mitchell, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361411/)). That may be one reason why even crimes are posted or [broadcasted live](https://www.theguardian.com/technology/2017/jan/27/rising-numbers-of-criminals-are-using-facebook-to-document-their-crimes) on social media sites. The combination of self-disclosure and the desire for more likes makes this cocktail so addictive for many people.
 
 
-### Likes, views, retweets, and followers
-It is clear that positive reinforcement is a big motivating factor. And what can be online more pleasant than getting views, retweets or likes for things that we post? It seems that we're constantly chasing other people's approval. But what we don't know is, if a post will be rewarded with more attention than the previous one, which encourages us to come back over and over again (variable reward).
-
-
-### Feed
+### The feed
+For many smartphone users, checking social media apps or news sites is the first thing they do in the morning – often before even getting out of bed. The simplest actions like scrolling through your Facebook, Twitter or news feed are tied to immediate variable rewards. We don't know if the next scroll reveals some interesting photos, funny videos or valuable information – we keep scrolling and get sucked in. Researchers observed reactions in subjects like pupil dilation while browsing Facebook which indicates being in the *flow*, a state of complete immersion in an activity with a feeling of enjoyment and energized focus ([Mauri, Cipresso, Balgera, Villamira & Riva, 2011](http://online.liebertpub.com/doi/abs/10.1089/cyber.2010.0377)).
 
 
 ### Rank
