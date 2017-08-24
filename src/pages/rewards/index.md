@@ -75,9 +75,12 @@ For many smartphone users, checking social media apps or news sites is the first
 Offer a fixed (e.g., $25 off) or a percentage discount (e.g., 10% off) to someone who is recommending your product or service. However, according to tests conducted by Annex Cloud, [are fixed dollar amounts more compelling](http://www.annexcloud.com/blog/2016/05/26/get-people-participate-refer-a-friend-programs/) than a percentage off the purchase. The timing for asking for referrals is also crucial: Don't expect someone to provide a recommendation if he's not completely satisfied. Ask them when they're already on a dopamine high: right after a successful purchase or after completing an important or lengthy task in your application.
 
 
+### Free shipping after a certain dollar amount
+Nowadays customers expect fast and free shipping, but it can be costly for the stores to live up to these expectations. Offering free shipping for purchases after a certain amount is a compromise which can even boost your average order value. A [case study](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/) shows how NuFace, a store for skin care products, increased their orders by 90% when adding a free shipping threshold as an incentive.
+
+
 ### Other monetary rewards
 other monetary rewards:
-- free shipping
 - redemptions
 - prizes
 - Youtube play button
