@@ -79,8 +79,5 @@ Offer a fixed (e.g., $25 off) or a percentage discount (e.g., 10% off) to someon
 Nowadays customers expect fast and free shipping, but it can be costly for the stores to live up to these expectations. Offering free shipping for purchases after a certain amount is a compromise which can even boost your average order value. A [case study](https://www.reddoor.biz/blog/case-study-rdi-a-b-testing-finds-that-adding-free/) shows how NuFace, a store for skin care products, increased their orders by 90% when adding a free shipping threshold as an incentive.
 
 
-### Other monetary rewards
-other monetary rewards:
-- redemptions
-- prizes
-- Youtube play button
+### Physical prizes
+Be different in today's digital age by giving away real physical awards to your users when they achieve specific milestones. That's exactly what YouTube does to honor popular channels. If someone reaches a specific number of subscribers (100k, 1M, 10M), they get a plaque with a *Play Button* on it, so it can be hung for all to see. Achieving the milestones requires a lot of effort and hard work. So, getting such an award also means attaining more intrinsic rewards like increased pride and prestige.
