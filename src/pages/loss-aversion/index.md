@@ -75,3 +75,13 @@ Preload the shopping cart with discounted upsells. Users will hesitate to remove
 As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by the scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
 
 ![](08-scarcity.png)
+
+
+### Losing a moment
+- Fear of losing the moment
+- camera app, instagram, snapchat, facebook
+
+
+### Fear of losing content
+- Pinterest
+- bookmarking services
