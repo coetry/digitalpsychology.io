@@ -13,7 +13,7 @@ Internal triggers, on the other hand, are impulses which come from within us. Me
 
 ## Studies
 
-Conditioning: Pavlovs dog
+Ivan Pavlov demonstrated that dogs could be conditioned to salivate at the sound of a bell. He trained the dogs to respond in that way by ringing a bell before feeding them. This learning procedure came to be known as classical conditioning. ([Pavlov, 1927](http://psychclassics.yorku.ca/Pavlov/))
 
 
 ## Examples
