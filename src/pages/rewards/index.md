@@ -50,7 +50,7 @@ Reward your early adopters and loyal customers with no extra content – you jus
 ### Likes, views, and followers
 It is clear that positive reinforcement is a big motivating factor. And what can be online more pleasant than getting views, retweets or likes for things that we post or tweet? It seems that we're constantly chasing other people's approval and wonder how much social validation our creations will receive. Its unpredictability makes it more intriguing. We don't know whether a post will be rewarded with more attention than the previous one, which encourages us to come back over and over again (variable reward).
 
-![](05-likes-views-followers)
+![](05-likes-views-followers.png)
 
 
 ### Comments
