@@ -21,8 +21,12 @@ According to BJ Fogg's behavior model, three elements must be present for the de
 ## Examples
 
 
-### Paid advertising
+### Paid media
 Everything from web banners to paid search marketing is used to acquire new customers and falls within the category of paid triggers. It's an effective way to expose your product's name to a broad audience within a short time. Paid channels will continue to evolve with more features aimed at providing better audience targeting and thus better experiences for the visitors. According to the research from [Ascend2](http://research.ascend2.com/2017-content-marketing-distribution-survey-summary-report/), say 67% of the marketers interviewed that search engine marketing is the most effective paid channel to distribute content, followed by social media ads with 50%.
+
+
+### Owned media
+A high-quality digital presence is critical to success. Owned media refers to the content you create and publish on channels you own. That includes the main website, blogs, newsletters but also any social media presence which all act as an extension of your brand. The more owned media you have, the more potential external triggers you have to provide to acquire new visitors. Owned media leads to earned media.
 
 
 ### Earned media
