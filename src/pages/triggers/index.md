@@ -20,6 +20,15 @@ According to BJ Fogg's behavior model, three elements must be present for the de
 
 ## Examples
 
+
+### Paid advertising
+Everything from web banners to paid search marketing is used to acquire new customers and falls within the category of paid triggers. It's an effective way to expose your product's name to a broad audience within a short time. Paid channels will continue to evolve with more features aimed at providing better audience targeting and thus better experiences for the visitors. According to the research from [Ascend2](http://research.ascend2.com/2017-content-marketing-distribution-survey-summary-report/), say 67% of the marketers interviewed that search engine marketing is the most effective paid channel to distribute content, followed by social media ads with 50%.
+
+
+### Earned media
+In contrast to paid media, which gets in front of people by payment, refers earned media to exposure you've gained through word-of-mouth. Earned media is the tweet that praises your service. It's the blog post that mentions your product and got shared by thousands. Establish yourself and your business as the leader in your niche which will give you a ton of [social proof](/social-proof/) and credibility. Not everybody will like your brand. By publicly acknowledging hate against your business you will increase the positive word-of-mouth created by your brand lovers ([Monahan, Espinosa & Ortinau](2017)).
+
+
 ### App icon on homescreen
 
 ### App updates
@@ -39,8 +48,6 @@ According to BJ Fogg's behavior model, three elements must be present for the de
 ### Unread message count
 
 ### Internal: waiting for responds
-
-### Online advertising
 
 ### Search engine marketing
 
