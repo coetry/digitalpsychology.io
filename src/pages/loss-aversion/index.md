@@ -77,7 +77,7 @@ As things become less available, they become more desirable. The fear of losing 
 ![](08-scarcity.png)
 
 
-### Losing a moment
+### Not Losing a moment
 - Fear of losing the moment
 - camera app, instagram, snapchat, facebook
 

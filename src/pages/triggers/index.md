@@ -30,7 +30,11 @@ A high-quality digital presence is critical to success. Owned media refers to th
 
 
 ### Earned media
-In contrast to paid media, which gets in front of people by payment, refers earned media to exposure you've gained through word-of-mouth. Earned media is the tweet that praises your service. It's the blog post that mentions your product and got shared by thousands. Establish yourself and your business as the leader in your niche which will give you a ton of [social proof](/social-proof/) and credibility. Not everybody will like your brand. By publicly acknowledging hate against your business you will increase the positive word-of-mouth created by your brand lovers ([Monahan, Espinosa & Ortinau](2017)).
+In contrast to paid media, which gets in front of people by payment, refers earned media to exposure you've gained through word-of-mouth. Earned media is the tweet that praises your service. It's the blog post that mentions your product and got shared by thousands. Establish yourself and your business as the leader in your niche which will give you a ton of [social proof](/social-proof/) and credibility. Not everybody will like your brand. By publicly acknowledging hate against your business you will increase the positive word-of-mouth created by your brand lovers ([Monahan, Espinosa & Ortinau, 2017](https://www.researchgate.net/publication/314266211_Hate_Does_Not_Have_to_Hurt_The_Influence_of_Hate-Acknowledging_Advertising_on_Positive_Word_of_Mouth_An_Extended_Abstract)).
+
+
+### Call to action
+Every CTA like a button or some other form of graphic or text which guides your users and tells them what to do next is an external trigger. Even the smallest tweaks in copy, color, position or size can lead to huge lifts in the conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
 
 
 ### App icon on homescreen
@@ -52,8 +56,6 @@ In contrast to paid media, which gets in front of people by payment, refers earn
 ### Unread message count
 
 ### Internal: waiting for responds
-
-### Search engine marketing
 
 ### Phone ringing
 
