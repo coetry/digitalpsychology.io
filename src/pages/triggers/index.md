@@ -37,11 +37,17 @@ In contrast to paid media, which gets in front of people by payment, refers earn
 Every CTA like a button or some other form of graphic or text which guides your users and tells them what to do next is an external trigger. Even the smallest tweaks in copy, color, position or size can lead to huge lifts in the conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
 
 
-### App icon on homescreen
+### App icon on home screen
+We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more.
 
-### App updates
 
-### App push notifications
+### Push notifications
+According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging) of all mobile users enable push notifications on their phone. If done right, they can have open-rates up to [80%](http://blog.thanx.com/push-notification-open-rate-statistics-50-80) and are therefore effective external triggers to persuade people to complete certain tasks. Good push notifications are well-timed, explicit and spark someone's curiosity.
+
+
+### Software updates
+Have you ever been remembered through app updates that you have an app installed which you've forgotten that it's on your phone? Releasing updates strategically can be a part of your marketing to retain existing users. Mobile systems like iOS and Android have update notifications built in. In addition to that or for other platforms like web and desktop you can send product update emails to inform your users about new features.
+
 
 ### Browser extension
 - Buffer
@@ -58,11 +64,6 @@ Every CTA like a button or some other form of graphic or text which guides your 
 ### Internal: waiting for responds
 
 ### Phone ringing
-
-### Button labels
-- play now
-- Tweet this
-- click here
 
 ### Internal triggers
 - emotions: boredom, loneliness, uncertainty
