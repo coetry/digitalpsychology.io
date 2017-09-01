@@ -49,8 +49,12 @@ According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-use
 Have you ever been remembered through app updates that you have an app installed which you've forgotten that it's on your phone? Releasing updates strategically can be a part of your marketing to retain existing users. Mobile systems like iOS and Android have update notifications built in. In addition to that or for other platforms like web and desktop you can send product update emails to inform your users about new features.
 
 
-### Browser extension
+### Browser extensions
 Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
+
+
+### Unread count badge
+There are two types of users: those with hundreds of unread notifications, and those who can't relax until everything is cleared out. Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest. This feature is often seen above mobile app icons, in the header of web applications but it's also possible to show a [counter in your favicon](http://lab.ejci.net/favico.js/) of your website.
 
 
 ### Transactional emails
@@ -64,9 +68,3 @@ They happen all the time. Unlike external triggers like these from the previous 
 ### Newsletter
 
 ### Progressbar
-
-### Unread message count
-
-### Internal: waiting for responds
-
-### Phone ringing
