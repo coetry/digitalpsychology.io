@@ -38,7 +38,7 @@ Every CTA like a button or some other form of graphic or text which guides your 
 
 
 ### App icon on home screen
-We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more.
+We touch our phone [2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more.
 
 
 ### Push notifications
@@ -52,6 +52,9 @@ Have you ever been remembered through app updates that you have an app installed
 ### Browser extension
 Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
 
+
+### Internal triggers
+They happen all the time. Unlike external triggers like these from the previous examples, you can't see or hear an internal trigger. Internal triggers manifest automatically in mind through emotions, situations, places, and people around you. Especially negative emotions are powerful triggers. Just a spark of loneliness, boredom or fear of missing out will make us check Facebook, Instagram or Snapchat. Researchers find that people with depressive symptoms tend to [check their inboxes more often](http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3) which relates to high levels of anxiety. The holy grail is to convert external into internal triggers that bring a user back again and again by attaching your product to people's daily routines and emotions. Ask yourself in which situations your users find themselves when the desired habit could be built and see if an external trigger can be fired closely to that moment.
 
 
 ### Newsletter
