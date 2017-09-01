@@ -33,11 +33,11 @@ A high-quality digital presence is critical to success. Owned media refers to th
 In contrast to paid media, which gets in front of people by payment, refers earned media to exposure you've gained through word-of-mouth. Earned media is the tweet that praises your service. It's the blog post that mentions your product and got shared by thousands. Establish yourself and your business as the leader in your niche which will give you a ton of [social proof](/social-proof/) and credibility. Not everybody will like your brand. By publicly acknowledging hate against your business you will increase the positive word-of-mouth created by your brand lovers ([Monahan, Espinosa & Ortinau, 2017](https://www.researchgate.net/publication/314266211_Hate_Does_Not_Have_to_Hurt_The_Influence_of_Hate-Acknowledging_Advertising_on_Positive_Word_of_Mouth_An_Extended_Abstract)).
 
 
-### Call to action
+### Call to actions
 Every CTA like a button or some other form of graphic or text which guides your users and tells them what to do next is an external trigger. Even the smallest tweaks in copy, color, position or size can lead to huge lifts in the conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
 
 
-### App icon on home screen
+### App icons on home screen
 We touch our phone [2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more.
 
 
@@ -53,13 +53,15 @@ Have you ever been remembered through app updates that you have an app installed
 Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
 
 
+### Transactional emails
+You sign up for a web app, and get welcomed with a lovely message in your inbox – that's a transactional email. A user's interaction or a time-based condition triggers these types of notifications. According to an email marketing study conducted by IBM, have transactional emails a [higher open-rate by 116%](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-13772&S_PKG=ov56286) than marketing emails because they're personalized, and we typically expect them. Common use cases include welcome emails, password resets, purchase confirmations or some notifications of important activities going on in your application.
+
+
 ### Internal triggers
 They happen all the time. Unlike external triggers like these from the previous examples, you can't see or hear an internal trigger. Internal triggers manifest automatically in mind through emotions, situations, places, and people around you. Especially negative emotions are powerful triggers. Just a spark of loneliness, boredom or fear of missing out will make us check Facebook, Instagram or Snapchat. Researchers find that people with depressive symptoms tend to [check their inboxes more often](http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3) which relates to high levels of anxiety. The holy grail is to convert external into internal triggers that bring a user back again and again by attaching your product to people's daily routines and emotions. Ask yourself in which situations your users find themselves when the desired habit could be built and see if an external trigger can be fired closely to that moment.
 
 
 ### Newsletter
-
-### Transactional emails
 
 ### Progressbar
 
@@ -68,12 +70,3 @@ They happen all the time. Unlike external triggers like these from the previous 
 ### Internal: waiting for responds
 
 ### Phone ringing
-
-### Internal triggers
-- emotions: boredom, loneliness, uncertainty
-- situations
-- places
-- routines
-- people
-- negative emototions: lonesome, powerless, indecisive, dissatisfied, discouraged, bored, lost, fear of loss, fatiqued
-- "participants with depressive symptoms tended to engage in very high e-mail usage." http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3
