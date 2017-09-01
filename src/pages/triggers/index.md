@@ -50,8 +50,9 @@ Have you ever been remembered through app updates that you have an app installed
 
 
 ### Browser extension
-- Buffer
-- Pin it
+Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
+
+
 
 ### Newsletter
 
