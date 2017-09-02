@@ -73,6 +73,10 @@ We as humans have a [fear of losing things that we already own](/loss-aversion/)
 Similar to the concept of bookmarks we often see a "favorites" feature in many applications. Amazon and Airbnb call them wish lists. Twitter stores your favorited tweets under *Likes* and on your phone, you can add contacts to the *Favorites*. Giving a bookmarking mechanism to your users can increase the overall engagement on your platform. With every added favorite, the [users commit them](/commitment-consistency/) more to the usage of the product.
 
 
+### Search suggestions
+The autocomplete design pattern has become somewhat of a convention for search functionalities. Search suggestions can help to create better queries by guiding users to the results they want. It can also encourage an exploratory search when the shown suggestions are relevant.
+
+
 ### Internal triggers
 They happen all the time. Unlike external triggers like these from the previous examples, you can't see or hear an internal trigger. Internal triggers manifest automatically in mind through emotions, situations, places, and people around you. Especially negative emotions are powerful triggers. Just a spark of loneliness, boredom or fear of missing out will make us check Facebook, Instagram or Snapchat. Researchers find that people with depressive symptoms tend to [check their inboxes more often](http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3) which relates to high levels of anxiety. The holy grail is to convert external into internal triggers that bring a user back again and again by attaching your product to people's daily routines and emotions. Ask yourself in which situations your users find themselves when the desired habit could be built and see if an external trigger can be fired closely to that moment.
 
