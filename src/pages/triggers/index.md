@@ -65,10 +65,12 @@ You sign up for a web app, and get welcomed with a lovely message in your inbox 
 There are many names, but all describe the same type: Bulk, promotional, commercial, broadcast or just marketing emails. Unlike transactional emails, this kind is sent to more than one person that contains the same content. Just a customized salutation makes it not different. Some examples are messages about product updates, website launches, event invitations, exclusive offers or giveaways. It's a thin line between retaining existing customers and being marked as spam. Only email people who have given you permission, don't overdo it but also don't wait too long before contacting your subscribers. Stale email lists can lead to high bounce-rates and unsubscribes.
 
 
-### Bookmarks
+### Bookmarked sites
 We as humans have a [fear of losing things that we already own](/loss-aversion/). So we bookmark websites that seem interesting –We hoard them literally. Once in a while, when we dare to go through the folder of bookmarks, we're faced with a huge list of potential triggers.
 
 
+### Wish lists and favorites
+Similar to the concept of bookmarks we often see a "favorites" feature in many applications. Amazon and Airbnb call them wish lists. Twitter stores your favorited tweets under *Likes* and on your phone, you can add contacts to the *Favorites*. Giving a bookmarking mechanism to your users can increase the overall engagement on your platform. With every added favorite, the [users commit them](/commitment-consistency/) more to the usage of the product.
 
 
 ### Internal triggers
