@@ -37,8 +37,8 @@ In contrast to paid media, which gets in front of people by payment, refers earn
 Every CTA like a button or some other form of graphic or text which guides your users and tells them what to do next is an external trigger. Even the smallest tweaks in copy, color, position or size can lead to huge lifts in the conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
 
 
-### App icons on home screen
-We touch our phone [2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more.
+### App icon on home screen
+We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more. You can even prompt an ["Add to home screen" banner](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) on your mobile website to have it launch in the full-screen mode like a real native app.
 
 
 ### Push notifications
