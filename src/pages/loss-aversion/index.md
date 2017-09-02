@@ -70,18 +70,24 @@ Preload the shopping cart with discounted upsells. Users will hesitate to remove
 ![](07-prefill-shopping-cart.png)
 
 
+### Bookmarks
+
+We've found an excellent source of information, but we don’t have time to delve into it now, so we bookmark it for later. Bookmarking services but also sites like Pinterest are based on the fear of missing out some good content.
+
+![](08-bookmarks.png)
+
+
+### Selfies, food pics, and other photos
+
+Everyone has this one friend who takes pictures of all and everything. But that is usually not all. Based on a thorough selection process, the "winning" photo has the honor to get published on various social media platforms. The fear of losing a moment is, among other factors, one reason for this phenomenon of constantly taking pictures.
+
+![](09-photos.png)
+
+
 ### Scarcity
 
 As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by the scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
 
-![](08-scarcity.png)
+![](10-scarcity.png)
 
 
-### Not Losing a moment
-- Fear of losing the moment
-- camera app, instagram, snapchat, facebook
-
-
-### Fear of losing content
-- Pinterest
-- bookmarking services
