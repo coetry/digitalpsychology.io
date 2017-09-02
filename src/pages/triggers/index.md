@@ -61,10 +61,10 @@ There are two types of users: those with hundreds of unread notifications, and t
 You sign up for a web app, and get welcomed with a lovely message in your inbox – that's a transactional email. A user's interaction or a time-based condition triggers these types of notifications. According to an email marketing study conducted by IBM, have transactional emails a [higher open-rate by 116%](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-13772&S_PKG=ov56286) than marketing emails because they're personalized, and we typically expect them. Common use cases include welcome emails, password resets, purchase confirmations or some notifications of important activities going on in your application.
 
 
+### Marketing emails
+There are many names, but all describe the same type: Bulk, promotional, commercial, broadcast or just marketing emails. Unlike transactional emails, this kind is sent to more than one person that contains the same content. Just a customized salutation makes it not different. Some examples are messages about product updates, website launches, event invitations, exclusive offers or giveaways. It's a thin line between retaining existing customers and being marked as spam. Only email people who have given you permission, don't overdo it but also don't wait too long before contacting your subscribers. Stale email lists can lead to high bounce-rates and unsubscribes.
+
+
 ### Internal triggers
 They happen all the time. Unlike external triggers like these from the previous examples, you can't see or hear an internal trigger. Internal triggers manifest automatically in mind through emotions, situations, places, and people around you. Especially negative emotions are powerful triggers. Just a spark of loneliness, boredom or fear of missing out will make us check Facebook, Instagram or Snapchat. Researchers find that people with depressive symptoms tend to [check their inboxes more often](http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3) which relates to high levels of anxiety. The holy grail is to convert external into internal triggers that bring a user back again and again by attaching your product to people's daily routines and emotions. Ask yourself in which situations your users find themselves when the desired habit could be built and see if an external trigger can be fired closely to that moment.
 
-
-### Newsletter
-
-### Progressbar
