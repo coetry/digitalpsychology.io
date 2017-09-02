@@ -8,8 +8,6 @@ Everybody likes rewards and appreciation. A shot of dopamine gets released and m
 
 We distinguish between fixed and variable rewards. The first type is straightforward: we know excatly what to do to get rewarded. Every time the goal is reached we earn something. On the other hand, variable rewards are unpredictable and foster curiosity.
 
-Related: [Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning), [Positive reinforcement](https://en.wikipedia.org/wiki/Reinforcement#Positive_reinforcement)
-
 
 ## Studies
 

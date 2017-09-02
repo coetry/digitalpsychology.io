@@ -8,7 +8,6 @@ image: 0|14|14,15|13,14,15|13,14,15|12,13,14|11,12,13,14|10,11,12,13|2,3,9,10,11
 
 People are pack animals. We are more likely to do something when presented with evidence that others have done it, more than we are willing to admit. This behavior applies in particular when we are unsure what to do.
 
-Related: [Authority bias](https://en.wikipedia.org/wiki/Authority_bias), [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect), [Groupthink](https://en.wikipedia.org/wiki/Groupthink), [Herd behavior](https://en.wikipedia.org/wiki/Herd_behavior)
 
 ## Studies
 
