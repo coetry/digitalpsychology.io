@@ -24,37 +24,55 @@ According to BJ Fogg's behavior model, three elements must be present for the de
 ### Paid media
 Everything from web banners to paid search marketing is used to acquire new customers and falls within the category of paid triggers. It's an effective way to expose your product's name to a broad audience within a short time. Paid channels will continue to evolve with more features aimed at providing better audience targeting and thus better experiences for the visitors. According to the research from [Ascend2](http://research.ascend2.com/2017-content-marketing-distribution-survey-summary-report/), say 67% of the marketers interviewed that search engine marketing is the most effective paid channel to distribute content, followed by social media ads with 50%.
 
+![](01-paid-media.png)
+
 
 ### Owned media
 A high-quality digital presence is critical to success. Owned media refers to the content you create and publish on channels you own. That includes the main website, blogs, newsletters but also any social media presence which all act as an extension of your brand. The more owned media you have, the more potential external triggers you have to provide to acquire new visitors. Owned media leads to earned media.
+
+![](02-owned-media.png)
 
 
 ### Earned media
 In contrast to paid media, which gets in front of people by payment, refers earned media to exposure you've gained through word-of-mouth. Earned media is the tweet that praises your service. It's the blog post that mentions your product and got shared by thousands. Establish yourself and your business as the leader in your niche which will give you a ton of [social proof](/social-proof/) and credibility. Not everybody will like your brand. By publicly acknowledging hate against your business you will increase the positive word-of-mouth created by your brand lovers ([Monahan, Espinosa & Ortinau, 2017](https://www.researchgate.net/publication/314266211_Hate_Does_Not_Have_to_Hurt_The_Influence_of_Hate-Acknowledging_Advertising_on_Positive_Word_of_Mouth_An_Extended_Abstract)).
 
+![](03-earned-media.png)
+
 
 ### Call to actions
 Every CTA like a button or some other form of graphic or text which guides your users and tells them what to do next is an external trigger. Even the smallest tweaks in copy, color, position or size can lead to huge lifts in the conversion rate: Black and Decker, for example, saw a [17% increase in click-through rate](https://blog.optimizely.com/2014/07/03/black-decker-discovers-big-win-in-buy-now-vs-shop-now-test/) by using "Buy now" instead of "Shop now." Even two words on a button can have a huge impact on essential metrics.
+
+![](04-cta.png)
 
 
 ### App icon on home screen
 We [touch our phone 2,617 times a day and unlock it 76 times](https://blog.dscout.com/mobile-touches). Whenever we see the grid of apps, we're confronted with potential triggers. Red badges, which signal what we've missed, increase the sense of urgency in opening specific apps even more. You can even prompt an ["Add to home screen" banner](https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/) on your mobile website to have it launch in the full-screen mode like a real native app.
 
+![](05-app-icon-on-home-screen.png)
+
 
 ### Push notifications
 According to Localytics, [52%](http://info.localytics.com/blog/52-percent-of-users-enable-push-messaging) of all mobile users enable push notifications on their phone. If done right, they can have open-rates up to [80%](http://blog.thanx.com/push-notification-open-rate-statistics-50-80) and are therefore effective external triggers to persuade people to complete certain tasks. Good push notifications are well-timed, explicit and spark someone's curiosity.
+
+![](06-push-notifications.png)
 
 
 ### Software updates
 Have you ever been remembered through app updates that you have an app installed which you've forgotten that it's on your phone? Releasing updates strategically can be a part of your marketing to retain existing users. Mobile systems like iOS and Android have update notifications built in. In addition to that or for other platforms like web and desktop you can send product update emails to inform your users about new features.
 
+![](07-software-updates.png)
+
 
 ### Browser extensions
 Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
 
+![](08-browser-extensions.png)
+
 
 ### Unread count badge
 There are two types of users: those with hundreds of unread notifications, and those who can't relax until everything is cleared out. Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest. This feature is often seen above mobile app icons, in the header of web applications but it's also possible to show a [counter in your favicon](http://lab.ejci.net/favico.js/) of your website.
+
+![](09-unread-count-badge.png)
 
 
 ### Transactional emails
