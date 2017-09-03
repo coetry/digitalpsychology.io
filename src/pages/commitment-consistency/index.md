@@ -15,5 +15,29 @@ Everyone knows or was even a part of projects where costs exploded by many times
 
 The *Ikea effect* is a cognitive bias in which we disproportionately value things more if we put work in them. This phenomenon has a range of possible explanations: A successful completion of a task gives us the feeling of competence and puts us in a positive mood. Another reason could be that we like to justify the efforts that we've invested in a product, so we tend to like it more. ([Norton, Mochon, & Ariely, 2012](http://www.hbs.edu/faculty/Pages/item.aspx?num=41121))
 
+Status quo bias
+
+
 ## Examples
 
+
+### Inbox Zero
+
+### Todo lists
+
+### Auctions
+
+### Freemium
+- Dropbox
+
+### Social media contests
+- public commitment
+
+### Popups with yes/no questions
+- https://www.quora.com/Why-does-Upworthy-com-display-popups-with-simple-yes-no-questions
+- https://copyhackers.com/2015/05/choices-consequences-opt-in-boxes/
+
+### Home try-on programs
+- https://www.shopify.com/blog/8920983-6-psychological-triggers-that-win-sales-and-influence-customers
+
+### Configurators
