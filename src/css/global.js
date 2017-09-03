@@ -63,6 +63,11 @@ injectGlobal`
         text-decoration: none;
     }
 
+    strong {
+        font-weight: bold;
+        color: ${colors.heading};
+    }
+
     ::selection {
         background-color: rgba(0, 0, 0, .99);
         color: #fff;
