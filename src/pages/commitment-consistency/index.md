@@ -13,6 +13,7 @@ Everyone knows or was even a part of projects where costs exploded by many times
 
 "I will keep reading this book that I'm 100 pages into although I don't really like it." Sounds familiar? Sure, you spent the money on the book and your time already but you can’t get it back. This distortion of our decisions by emotional investments is called the *sunk cost fallacy*.  It leads us to continue a behavior as a result of previously invested resources. ([Arkes & Blumer, 1985](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.2318&rep=rep1&type=pdf))
 
+The *Ikea effect* is a cognitive bias in which we disproportionately value things more if we put work in them. This phenomenon has a range of possible explanations: A successful completion of a task gives us the feeling of competence and puts us in a positive mood. Another reason could be that we like to justify the efforts that we've invested in a product, so we tend to like it more. ([Norton, Mochon, & Ariely, 2012](http://www.hbs.edu/faculty/Pages/item.aspx?num=41121))
 
 ## Examples
 
