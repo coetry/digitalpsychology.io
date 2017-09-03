@@ -30,7 +30,6 @@ function PatternList(props) {
         line-height: 1;
         color: ${colors.heading};
         letter-spacing: 1px;
-        text-align: center;
 
         figure {
             position: absolute;
@@ -61,6 +60,12 @@ function PatternList(props) {
         color: ${colors.textWeak};
     `;
 
+    const Title = styled.span`
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    `;
+
     return (
         <Root>
             {props.items.map((item, index) => (
@@ -71,7 +76,7 @@ function PatternList(props) {
                         </figure>
 
                         <Index>{leftPad(index, 3, '0')}</Index>
-                        {item.title}
+                        <Title>{item.title}</Title>
                     </Item>
                 </li>
             ))}
