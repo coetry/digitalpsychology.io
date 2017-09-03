@@ -9,7 +9,7 @@ We are driven to be consistent in all areas of life. When we make a promise, we 
 
 ## Studies
 
-Everyone knows or was even a part of projects where costs exploded by many times. Sometimes managers and even entire organizations seem almost programmed to follow a direction which is doomed to failure. **Escalation of commitment** refers to the tendency to stay with a decision and to dedicate additional effort, money and time into a course of action that is failing. We don't want to lose the resources already invested and don't want to appear inconsistent. ([Staw, 1976](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.3668&rep=rep1&type=pdf))
+Everyone knows or was even a part of projects where costs exploded by many times. Sometimes managers and even entire organizations seem almost programmed to follow a direction which is doomed to failure. **Escalation of commitment** refers to the tendency to stay with a decision and to dedicate additional effort, money and time into a course of action that is failing. We [don't want to lose](/loss-aversion/) the resources already invested and don't want to appear inconsistent. ([Staw, 1976](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.3668&rep=rep1&type=pdf))
 
 "I will keep reading this book that I'm 100 pages into although I don't really like it." Sounds familiar? Sure, you spent the money on the book and your time already but you can’t get it back. This distortion of our decisions by emotional investments is called the **sunk cost fallacy**.  It leads us to continue a behavior as a result of previously invested resources. ([Arkes & Blumer, 1985](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.452.2318&rep=rep1&type=pdf))
 
