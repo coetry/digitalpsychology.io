@@ -27,7 +27,7 @@ function PatternList(props) {
         padding: 1rem ${sizes.xl};
         font-family: ${fonts.heading};
         font-size: 1rem;
-        line-height: 1;
+        line-height: 1.2;
         color: ${colors.heading};
         letter-spacing: 1px;
 
