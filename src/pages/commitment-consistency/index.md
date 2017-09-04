@@ -45,15 +45,14 @@ Let's face it: Pop-ups are not the most pleasant things on the internet - but th
 ![](04-popups.png)
 
 
+### Wish lists
+Give customers a choice between buying the product immediately or saving it for another time. E-commerce sites like Amazon know that when you add something to your wish list, you will be more likely to buy these items later because you have already acknowledged your desire to do so.
+
+![](05-wish-lists.png)
+
+
 ### Freemium
 - Dropbox
 
-### Popups with yes/no questions
-- https://www.quora.com/Why-does-Upworthy-com-display-popups-with-simple-yes-no-questions
-- https://copyhackers.com/2015/05/choices-consequences-opt-in-boxes/
-- foot-in-the-door technique
 
 ### Configurators
-
-### Wish list
-- Amazon
