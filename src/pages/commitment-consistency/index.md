@@ -39,6 +39,12 @@ Auction sites are designed to push peoples emotional buttons. Even before it beg
 ![](03-online-auctions.png)
 
 
+### Pop-ups with Yes/No questions
+Let's face it: Pop-ups are not the most pleasant things on the internet - but they seem to work for some people very well. There is a trend in the recent years where visitors are given a choice when a pop-up appears: either say "yes" to leave your email address in a second step to get a freebie, or be foolish and choose "no". This tactic is commonly known as the *foot-in-the-door* technique, where a small agreement paves the way for subsequent, larger requests ([Freedman & Fraser, 1966](https://www.researchgate.net/publication/17217362_Compliance_Without_Pressure_The_Foot-in-the-Door_Technique)).
+
+![](04-popups.png)
+
+
 ### Freemium
 - Dropbox
 
