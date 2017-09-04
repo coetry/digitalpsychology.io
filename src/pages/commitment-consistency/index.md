@@ -51,6 +51,12 @@ Give customers a choice between buying the product immediately or saving it for 
 ![](05-wish-lists.png)
 
 
+### Asking for sensitive information last
+When setting up a payment or onboarding process, ask your users for personal details like the email address or credit card information at the end. By starting with the easiest tasks, your user will already be fully engaged in the process when it comes to the more sensitive information. Because he already invested his time so far, the user will be more likely to complete the whole process (sunk cost fallacy).
+
+![](06-asking-for-sensitive-information-last.png)
+
+
 ### Freemium
 - Dropbox
 
