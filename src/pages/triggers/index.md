@@ -63,49 +63,55 @@ Have you ever been remembered through app updates that you have an app installed
 ![](07-software-updates.png)
 
 
-### Browser extensions
+### Browser extension icons
 Look at your menu bar in your browser. How many third party add-ons do you see there? Each time you open your browser you notice consciously or unconsciously these shiny icons. For many companies like Pinterest, Buffer or Pocket are browser extensions an essential part of a seamless workflow.
 
-![](08-browser-extensions.png)
+![](08-browser-extension-icons.png)
+
+
+### Injecting content into other websites
+Browser add-ons can modify the current page you're on. Buffer, for example, adds a "Buffer" button on various places when you're on Twitter. Refind, a social bookmarking service, injects and highlights links you saved when you search on Google, so you can read them when you need them. The Pinterest browser plugin adds a "Save" and "Discover similar" button to every image you get with the mouse over.
+
+![](09-injecting-content.png)
 
 
 ### Unread count badge
 There are two types of users: those with hundreds of unread notifications, and those who can't relax until everything is cleared out. Notification badges are an easy way to indicate if there have been new activities or actions requiring our interest. This feature is often seen above mobile app icons, in the header of web applications but it's also possible to show a [counter in your favicon](http://lab.ejci.net/favico.js/) of your website.
 
-![](09-unread-count-badge.png)
+![](10-unread-count-badge.png)
 
 
 ### Transactional emails
 You sign up for a web app, and get welcomed with a lovely message in your inbox – that's a transactional email. A user's interaction or a time-based condition triggers these types of notifications. According to an email marketing study conducted by IBM, have transactional emails a [higher open-rate by 116%](https://www-01.ibm.com/marketing/iwm/dre/signup?source=urx-13772&S_PKG=ov56286) than marketing emails because they're personalized, and we typically expect them. Common use cases include welcome emails, password resets, purchase confirmations or some notifications of important activities going on in your application.
 
-![](10-transactional-emails.png)
+![](11-transactional-emails.png)
 
 
 ### Marketing emails
 There are many names, but all describe the same type: Bulk, promotional, commercial, broadcast or just marketing emails. Unlike transactional emails, this kind is sent to more than one person that contains the same content. Just a customized salutation makes it not different. Some examples are messages about product updates, website launches, event invitations, exclusive offers or giveaways. It's a thin line between retaining existing customers and being marked as spam. Only email people who have given you permission, don't overdo it but also don't wait too long before contacting your subscribers. Stale email lists can lead to high bounce-rates and unsubscribes.
 
-![](11-marketing-emails.png)
+![](12-marketing-emails.png)
 
 
 ### Bookmarked sites
 We as humans have a [fear of losing things that we already own](/loss-aversion/). So we bookmark websites that seem interesting –We hoard them literally. Once in a while, when we dare to go through the folder of bookmarks, we're faced with a huge list of potential triggers.
 
-![](12-bookmarked-sites.png)
+![](13-bookmarked-sites.png)
 
 
 ### Wish lists and favorites
 Similar to the concept of bookmarks we often see a "favorites" feature in many applications. Amazon and Airbnb call them wish lists. Twitter stores your favorited tweets under *Likes* and on your phone, you can add contacts to the *Favorites*. Giving a bookmarking mechanism to your users can increase the overall engagement on your platform. With every added favorite, the [users commit them](/commitment-consistency/) more to the usage of the product.
 
-![](13-wish-lists.png)
+![](14-wish-lists.png)
 
 
 ### Search suggestions
 The autocomplete design pattern has become somewhat of a convention for search functionalities. Search suggestions can help to create better queries by guiding users to the results they want. It can also encourage an exploratory search when the shown suggestions are relevant.
 
-![](14-search-suggestions.png)
+![](15-search-suggestions.png)
 
 
 ### Internal triggers
 They happen all the time. Unlike external triggers like these from the previous examples, you can't see or hear an internal trigger. Internal triggers manifest automatically in mind through emotions, situations, places, and people around you. Especially negative emotions are powerful triggers. Just a spark of loneliness, boredom or fear of missing out will make us check Facebook, Instagram or Snapchat. Researchers find that people with depressive symptoms tend to [check their inboxes more often](http://www.nytimes.com/2012/06/17/opinion/sunday/how-depressed-people-use-the-internet.html?mcubz=3) which relates to high levels of anxiety. The holy grail is to convert external into internal triggers that bring a user back again and again by attaching your product to people's daily routines and emotions. Ask yourself in which situations your users find themselves when the desired habit could be built and see if an external trigger can be fired closely to that moment.
 
-![](15-internal-triggers.png)
+![](16-internal-triggers.png)
