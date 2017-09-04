@@ -21,23 +21,29 @@ People use the current situation as a reference point, and any change from that 
 ## Examples
 
 
-### Inbox Zero
+### Home try-on programs
+Many online eyeglass retailers let their potential customers receive multiple glasses to try on before buying. The convenience of this service lets someone find the perfect frames and get feedback from friends and family. They say there's no commitment, but the moment you put a pair of their glasses on your face, it's unlikely that you'll move forward without buying.
 
-### Todo lists
+![](01-home-try-on-programs.png)
+
+
+### Social media contests
+Run a contest that encourages your prospective customers to self-identify as fans of your brand by requiring them for example to upload a photo of them in a particular situation. When someone made a public commitment, it’s easier to get them to do stuff. The more public, the stronger is the influence on future actions. A study shows that people who state publicly that they want to lose weight were significantly more successful ([Nyer & Delande, 2009](http://onlinelibrary.wiley.com/doi/10.1002/mar.20316/abstract)).
+
+![](02-social-media-contests.png)
+
 
 ### Auctions
 
 ### Freemium
 - Dropbox
 
-### Social media contests
-- public commitment
-
 ### Popups with yes/no questions
 - https://www.quora.com/Why-does-Upworthy-com-display-popups-with-simple-yes-no-questions
 - https://copyhackers.com/2015/05/choices-consequences-opt-in-boxes/
-
-### Home try-on programs
-- https://www.shopify.com/blog/8920983-6-psychological-triggers-that-win-sales-and-influence-customers
+- foot-in-the-door technique
 
 ### Configurators
+
+### Wish list
+- Amazon
