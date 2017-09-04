@@ -33,7 +33,11 @@ Run a contest that encourages your prospective customers to self-identify as fan
 ![](02-social-media-contests.png)
 
 
-### Auctions
+### Online auctions
+Auction sites are designed to push peoples emotional buttons. Even before it begins, bidders imagine themselves in a winning situation. With their first bid, commitment and consistency kick in. It's not uncommon that potential buyers increase their maximum bid above a value they're comfortable with, just to win an item. Many describe this phenomenon is as *auction fever*.
+
+![](03-online-auctions.png)
+
 
 ### Freemium
 - Dropbox
