@@ -79,3 +79,9 @@ A mortgage company increased its [conversion rate by 11%](http://www.conversionv
 When a greater number of users increases a product's value, then we have a network effect. Skype, Instagram, Airbnb, or eBay get better the more people join the network. Once we have committed for example to a messaging app like WhatsApp and convinced our peers to follow, it's doubtful that we'll try something different.
 
 ![](10-network-effect.png)
+
+
+### User-generated content
+Each time a user feeds an application like Dropbox, Twitter, Evernote with information, he stores value in the form of data. The bigger and often these investments, the more likely is it that the user will come back again and again.
+
+![](11-user-generated-content.png)
