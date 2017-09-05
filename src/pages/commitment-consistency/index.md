@@ -63,6 +63,13 @@ Remember that smartphone you checked out online? The store may have recommended 
 ![](07-cross-selling.png)
 
 
-### Freemium
-- Dropbox
+### Freemium and free trials
+Another way to invoke the principles of commitment and consistency is by offering a free trial or a freemium model like Dropbox does: When no free storage is left, or the trial expired, customers will be more inclined to upgrade to a paid plan since they've already committed to learning, setting up and using the new service.
 
+![](08-freemium-free-trials.png)
+
+
+### Commitment checkbox
+A mortgage company increased its [conversion rate by 11%](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) with just adding a "commitment checkbox".
+
+![](09-commitment-checkbox.png)
