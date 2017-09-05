@@ -58,7 +58,7 @@ When setting up a payment or onboarding process, ask your users for personal det
 
 
 ### Cross-selling
-Remember that smartphone you checked out online? The store may have recommended a screen protector or case to go along with your phone. That's cross-selling. When we decide to buy something, we're more inclined to buy additional accessories as we want to justify our initial decision and to remain consistent with it.
+Remember that smartphone you checked out online? The store may have recommended a screen protector or case to go along with your phone. That's cross-selling. When we decide to buy something, we're more inclined to buy additional accessories as we want to justify our initial decision and to remain consistent with it. Amazon, for example, attributes up to [35% of its revenue](http://www.the-future-of-commerce.com/2013/10/14/ecommerce-cross-sell-up-sell/) to cross-selling.
 
 ![](07-cross-selling.png)
 
