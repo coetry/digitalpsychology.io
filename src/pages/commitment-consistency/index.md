@@ -73,3 +73,9 @@ Another way to invoke the principles of commitment and consistency is by offerin
 A mortgage company increased its [conversion rate by 11%](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) with just adding a "commitment checkbox".
 
 ![](09-commitment-checkbox.png)
+
+
+### Network effect
+When a greater number of users increases a product's value, then we have a network effect. Skype, Instagram, Airbnb, or eBay get better the more people join the network. Once we have committed for example to a messaging app like WhatsApp and convinced our peers to follow, it's doubtful that we'll try something different.
+
+![](10-network-effect.png)
