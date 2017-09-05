@@ -57,8 +57,12 @@ When setting up a payment or onboarding process, ask your users for personal det
 ![](06-asking-for-sensitive-information-last.png)
 
 
+### Cross-selling
+Remember that smartphone you checked out online? The store may have recommended a screen protector or case to go along with your phone. That's cross-selling. When we decide to buy something, we're more inclined to buy additional accessories as we want to justify our initial decision and to remain consistent with it.
+
+![](07-cross-selling.png)
+
+
 ### Freemium
 - Dropbox
 
-
-### Configurators
