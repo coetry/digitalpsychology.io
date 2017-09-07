@@ -9,10 +9,13 @@ We tend to rely too heavily on one piece of information, mostly the first one wh
 
 ## Studies
 
-Two groups of high school students were asked to compute, within 5 seconds, the product of the numbers one through eight (1 x 2 x 3...) or reversed (8 x 7 x 6...).  Because of the short time, they had to estimate the product after the first multiplications. These first results gave an anchor for their final answer. The median estimate of the first group was 512, while the median for the descending sequence was 2,250. Correct is: 40,320. ([Tversky & Kahneman., 1974](http://science.sciencemag.org/content/185/4157/1124))
+### Impact on estimations
+Two groups of high school students were asked to compute, within 5 seconds, the product of the numbers one through eight (1 x 2 x 3...) or reversed (8 x 7 x 6...).  Because of the short time, they had to estimate the product after the first multiplications. These first results gave an anchor for their final answer. The median estimate of the first group was 512, while the median for the descending sequence was 2,250. Correct is: 40,320. ([Tversky & Kahneman, 1974](http://science.sciencemag.org/content/185/4157/1124))
 
+### Negotiating your salary
 Job seekers who anchor first and high in salary negotiations usually get a higher wage. ([Thorsteinson, 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2011.00779.x/abstract))
 
+### Are judges prone to anchoring?
 Judges score better than others on some cognitive illusions like the framing effect (treating economically equivalent gains and losses differently) or representativeness heuristic (ignoring background statistical information in favor of individuating information) but are equally prone to the anchoring effect. ([Guthrie, Rachlinski & Wistrich, 2001](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=257634))
 
 
