@@ -42,7 +42,6 @@ You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9Uj
 
 
 ### To-do lists
+Dropbox had an excellent “Get Started” checklist. The user was asked to refer friends to them, connect social media accounts or to follow Dropbox on Twitter which resulted in more free space. This growth hack was for sure one reason why Dropbox became a multi-billion dollar company. Providing small achievable quests can produce small wins when completed. But not all users will be seduced solely by the need of complete. In this case, give them extrinsic rewards as Dropbox does.
 
-### Profile completeness
-
-### Upload progress
+![](05-to-do-lists.png)
