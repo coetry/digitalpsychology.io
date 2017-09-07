@@ -75,7 +75,7 @@ function PatternList(props) {
                             <Raster points={convertRaster(20, item.image)} size={20} />
                         </figure>
 
-                        <Index>{leftPad(index, 3, '0')}</Index>
+                        <Index>{leftPad(index + 1, 3, '0')}</Index>
                         <Title>{item.title}</Title>
                     </Item>
                 </li>
