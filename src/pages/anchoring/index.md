@@ -18,8 +18,6 @@ Judges score better than others on some cognitive illusions like the framing eff
 
 ## Examples
 
-Let's see how the anchoring effect can be leveraged for digital products and services. Because anchoring is often associated with the judgment of numerical values, we'll find here examples solely related to pricing strategies.
-
 
 ### Highest price first
 
