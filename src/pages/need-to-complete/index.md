@@ -11,6 +11,8 @@ We as humans don't like to leave things incomplete. We are motivated to finish a
 
 During the Christmas season in 2016, Harvard researchers conducted a study with the Canadian Red Cross. Potential donors were directed to one of three landing pages. The first group received a request for cash donations. The second group was asked to select gifts from a selection of six items like blankets, baby diapers or hot meals among others. A location marker on a globe indicated where the selected items would be donated. The third landing page offered the same gifts but in a pseudo-set called "Global Survival Kit". Each time an item was selected, instead of location markers, a line grew further around the globe. A closed circle meant that all six items were funded, but potential donors could choose as many gifts as they wanted. 21% of the people in the third group decided to donate all six gifts, compared with only 5% on the second page and 3% in the cash condition. ([Barasz, John, Keenan & Norton, 2017](http://www.hbs.edu/faculty/Pages/item.aspx?num=52665))
 
+We like to tick off things that we got done. In the days before paper and pen, our memories had to perform the whole job. To keep track, our mind fixates on unfinished tasks – the so-called **Zeigarnik effect**. The psychologist Bluma Zeigarnik had noted that waiters could remember open orders more efficiently than those that had been delivered. Further experiments had proven that we could recall uncompleted or interrupted things better than things we’ve finished ([Zeigarnik, 1927](http://codeblab.com/wp-content/uploads/2009/12/On-Finished-and-Unfinished-Tasks.pdf)).
+
 
 ## Examples
 
@@ -39,8 +41,7 @@ You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9Uj
 ![](04-counters-notifications.png)
 
 
-
-### Todo lists
+### To-do lists
 
 ### Profile completeness
 
