@@ -11,7 +11,7 @@ Imagine you overhear your boss talking to the HR manager about giving you a rais
 
 ## Studies
 
-### 2x
+### 2x more
 We tend to give losses twice as much more psychological weight as gains. ([Tversky & Kahneman, 1992](http://cemi.ehess.fr/docannexe/file/2780/tversjy_kahneman_advances.pdf))
 
 
