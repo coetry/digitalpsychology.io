@@ -43,9 +43,9 @@ function Footer() {
         <Root>
             <Container>
                 <Info>
-                    {`DigitalPsychology.io is a free library of psychological principles and patterns
-                    which can be applied to digital products and online marketing to enhance
-                    customer experience and influence our behavior. `}
+                    {`Digital Psychology – a free library of psychological principles
+                    and examples for inspiration to enhance customer experience and
+                    influence your user's behavior. `}
 
                     Written by <OutgoingLink to="https://twitter.com/danistefanovic">Daniel Stefanovic</OutgoingLink>.
                 </Info>
