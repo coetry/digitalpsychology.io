@@ -9,16 +9,18 @@ We as humans don't like to leave things incomplete. We are motivated to finish a
 
 ## Studies
 
+### Case study: Red Cross
 During the Christmas season in 2016, Harvard researchers conducted a study with the Canadian Red Cross. Potential donors were directed to one of three landing pages. The first group received a request for cash donations. The second group was asked to select gifts from a selection of six items like blankets, baby diapers or hot meals among others. A location marker on a globe indicated where the selected items would be donated. The third landing page offered the same gifts but in a pseudo-set called "Global Survival Kit". Each time an item was selected, instead of location markers, a line grew further around the globe. A closed circle meant that all six items were funded, but potential donors could choose as many gifts as they wanted. 21% of the people in the third group decided to donate all six gifts, compared with only 5% on the second page and 3% in the cash condition. ([Barasz, John, Keenan & Norton, 2017](http://www.hbs.edu/faculty/Pages/item.aspx?num=52665))
 
-We like to tick off things that we got done. In the days before paper and pen, our memories had to perform the whole job. To keep track, our mind fixates on unfinished tasks – the so-called **Zeigarnik effect**. The psychologist Bluma Zeigarnik had noted that waiters could remember open orders more efficiently than those that had been delivered. Further experiments had proven that we could recall uncompleted or interrupted things better than things we’ve finished ([Zeigarnik, 1927](http://codeblab.com/wp-content/uploads/2009/12/On-Finished-and-Unfinished-Tasks.pdf)).
+### Zeigarnik effect
+We like to tick off things that we got done. In the days before paper and pen, our memories had to perform the whole job. To keep track, our mind fixates on unfinished tasks – the so-called *Zeigarnik effect*. The psychologist Bluma Zeigarnik had noted that waiters could remember open orders more efficiently than those that had been delivered. Further experiments had proven that we could recall uncompleted or interrupted things better than things we’ve finished ([Zeigarnik, 1927](http://codeblab.com/wp-content/uploads/2009/12/On-Finished-and-Unfinished-Tasks.pdf)).
 
 
 ## Examples
 
 
 ### Wizards
-No, I don't mean those bearded guys with hats. We're talking here about the step-by-step process that takes the user through a sequence of forms. It's a popular design pattern to split up complex forms into smaller more digestible tasks. Display either a progress bar or the number of steps that are left to indicate users how long the whole process will take. An indicator will also act as a reminder of how much time they've already invested – time that [would be lost](/loss-aversion/) should they not complete the process.
+No, I don't mean those bearded guys with hats. We're talking here about the step-by-step process that takes the user through a sequence of input requests. It's a popular design pattern to split up complex forms into smaller more digestible tasks. Display either a progress bar or the number of steps that are left to indicate users how long the whole process will take. An indicator will also act as a reminder of how much time they've already invested – time that [would be lost](/loss-aversion/) should they not complete the process.
 
 ![](01-wizards.png)
 
@@ -30,13 +32,13 @@ People [want](http://dl.acm.org/citation.cfm?id=317459) progress indicators. The
 
 
 ### Starting with a high percentage
-Make your progress indicator prominent and show already after the first completed task a relative high completion rate. We are more motivated to reach a goal the closer we get to it ([Kivetz, Urminsky & Zheng, 2006](http://www.quilageo.com/wp-content/uploads/2013/07/Goal-Gradient_Illusionary_Goal_Progress.pdf)).
+Make your progress indicator prominent and show already after the first completed task a relative high completion rate. But don't overdo it. Keep it plausible. We are more motivated to reach a goal the closer we get to it ([Kivetz, Urminsky & Zheng, 2006](http://www.quilageo.com/wp-content/uploads/2013/07/Goal-Gradient_Illusionary_Goal_Progress.pdf)).
 
 ![](03-starting-with-high-percentage.png)
 
 
 ### Counters and notifications
-You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk) approach: a technique developed by Merlin Mann to keep your email inbox almost all the time empty. For many people triggers a counter, that indicates incomplete tasks, discomfort which we try to avoid. According to a study from 2002, reacted employees to 70% of their unread emails [within 6 seconds](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/489/3/Ease%2525202002%252520Jackson.pdf). These interruptions can be instant gratifications. They give us little dopamine rushes every time we complete something, which in turn reinforces us to lurk for more distractions.
+You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk) approach: a technique developed by Merlin Mann to keep your email inbox almost all the time empty. For many people triggers a counter, that indicates incomplete tasks, discomfort which we try to avoid. According to a study from 2002, reacted employees to 70% of their unread emails [within 6 seconds](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/489/3/Ease%2525202002%252520Jackson.pdf). These interruptions can be instant gratifications. They give us little dopamine rushes every time we complete something, which in turn [reinforces us](/rewards/) to lurk for more distractions.
 
 ![](04-counters-notifications.png)
 
