@@ -11,9 +11,6 @@ Imagine you overhear your boss talking to the HR manager about giving you a rais
 
 ## Studies
 
-### 2x more
-We tend to give losses twice as much more psychological weight as gains. ([Tversky & Kahneman, 1992](http://cemi.ehess.fr/docannexe/file/2780/tversjy_kahneman_advances.pdf))
-
 
 ### Prediction vs. actual experience
 Losses have not as much as an impact as they are predicted. We tend to overestimate to dwell on negative experiences. Therefore is loss aversion more a property of forecasts than a characteristic of an actual experience. ([Kermer, Driver-Linn, Wilson & Gilbert, 2006](http://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01760.x))
@@ -27,7 +24,7 @@ Investors tend to be more prone to *myopic loss aversion* (MLA), a concept of a 
 
 
 ### Focusing on the loss in offers
-Talk of what your potential customer will lose if they don’t purchase rather than what they would gain by buying.
+Talk of what your potential customer will lose if they don’t purchase rather than what they would gain by buying. We tend to give losses twice as much more psychological weight as gains ([Tversky & Kahneman, 1992](http://cemi.ehess.fr/docannexe/file/2780/tversjy_kahneman_advances.pdf)).
 
 ![](01-focus-on-loss-offer.png)
 
