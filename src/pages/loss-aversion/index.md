@@ -29,8 +29,8 @@ Talk of what your potential customer will lose if they don’t purchase rather t
 ![](01-focus-on-loss-offer.png)
 
 
-### Focusing on the loss in headlines
-The same principle can also be applied to headlines of landing pages or blog posts.
+### Negative headlines
+The same principle can also be applied to headlines of landing pages or blog posts. We don’t want to lose anything we value. Perform split tests to see which type of headlines works best for your audience.
 
 ![](02-focus-on-loss-headline.png)
 
