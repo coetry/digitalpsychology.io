@@ -11,12 +11,8 @@ Imagine you overhear your boss talking to the HR manager about giving you a rais
 
 ## Studies
 
-
-### Prediction vs. actual experience
 Losses have not as much as an impact as they are predicted. We tend to overestimate to dwell on negative experiences. Therefore is loss aversion more a property of forecasts than a characteristic of an actual experience. ([Kermer, Driver-Linn, Wilson & Gilbert, 2006](http://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01760.x))
 
-
-### Myopic loss aversion
 Investors tend to be more prone to *myopic loss aversion* (MLA), a concept of a combination of high sensitivity to losses and a tendency to check their wealth too frequently. This bias leads to a short-term view that causes irrational decisions. ([Haigh & List, 2005](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2005.00737.x/full))
 
 

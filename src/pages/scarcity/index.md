@@ -9,13 +9,10 @@ The harder it is to get something, the more we want it. People often link availa
 
 ## Studies
 
-### Who’s chasing whom?
 Women are more attracted to men who are in a relationship than to single guys. It seems when something is limited or unattainable, it becomes more attractive. ([Parker & Burkley, 2009](http://www.sciencedirect.com/science/article/pii/S0022103109001048?via=ihub))
 
-### Cookie jar experiment
 One study shows that people value cookies more highly if they're scarce. Some participants were given a glass jar with ten cookies, while others only received two. In another condition, where the number of cookies was reduced from ten to two, participants rated these cookies the highest. ([Worchel, Lee & Adewole, 1975](http://psycnet.apa.org/record/1976-03817-001))
 
-### Need for uniqueness
 Scarcity tactics tend to be more effective when targeted at customers who have greater than average need for uniqueness. ([Lynn, 1991](http://scholarship.sha.cornell.edu/cgi/viewcontent.cgi?article=1181&context=articles))
 
 
