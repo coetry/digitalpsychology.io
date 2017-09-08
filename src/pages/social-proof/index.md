@@ -28,7 +28,7 @@ Displaying quotes from happy customers is one of the most used and most persuasi
 
 
 ### Social share count
-Showing the raw number of social shares is a simple form of implementing social proof. People are more likely to read an article that has been shared by thousands. It gives it more credibility and encourages even more shares. But be careful. A low share count can create a negative social proof and is worse than no share count at all. People might think that the content you're providing isn’t good enough. [In an experiment by VWO](https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/), the removal of social sharing buttons led to an 11.9% conversion increase.
+Showing the raw number of social shares is a simple form of implementing social proof. People are more likely to read an article that has been shared by thousands. It gives more credibility and encourages even more shares. But be careful. A low share count can create a negative social proof and is worse than no share count at all. People might think that the content you're providing isn’t good enough. [In an experiment by VWO](https://vwo.com/blog/removing-social-sharing-buttons-from-ecommerce-product-page-increase-conversions/), the removal of social sharing buttons led to an 11.9% conversion increase.
 
 ![](02-social-shares.png)
 
@@ -76,19 +76,19 @@ Did a recognized media outlet give you a positive endorsement? Let others know i
 
 
 ### Integration with other platforms
-List other well-known products your service integrates with. Similar to the media mentions or quotes from celebrities there can also show up the halo effect which can positively influence your brand's credibility.
+Similar to the media mentions, displaying logos from big brands your service integrates with, can also induce the halo effect which can positively influence your brand’s credibility.
 
 ![](10-integrations.png)
 
 
 ### Raw numbers
-Expose your visitors to huge numbers on anything from your mailing list, customer base or the number of downloads to any relevant statistics that reminds potential customers that a large crowd is using your service – so it must be good enough for them. Wordpress, for example, uses this powerful tactic in the headline of their landing page: "WordPress powers 28% of the internet". Use exact numbers instead of rounded ones to be perceived even more believable ([Mason, Lee, Wiley & Ames, 2013](https://www8.gsb.columbia.edu/researcharchive/articles/5957)).
+Expose your visitors to huge numbers on anything from your mailing list, customer base, number of downloads to any relevant statistics that reminds potential customers that a large crowd is using your service – so it must be good enough for them. Wordpress, for example, uses this powerful tactic in the headline of their landing page: "WordPress powers 28% of the internet". Use exact numbers instead of rounded ones to be perceived even more believable ([Mason, Lee, Wiley & Ames, 2013](https://www8.gsb.columbia.edu/researcharchive/articles/5957)).
 
 ![](11-raw-numbers.png)
 
 
 ### Mentioning numbers off-site
-You can go further and not only bring up these numbers on your website but also in the bio of your social media accounts or your ad copy.
+Go further and bring up these numbers not only on your website but also in the bio of your social media accounts or your ad copy.
 
 ![](12-numbers-in-bio.png)
 
@@ -160,6 +160,6 @@ Celebrate growth and the accomplishment of milestones with your audience and tha
 
 
 ### Engaging brand advocates
-A brand advocate is a person who enjoys your product or service so much that they say amazing things about it. It's not just someone who leaves a good review or agrees to be quoted for testimonials. They are passionate enough to repeatedly share their positive experience with your brand, service or product. A brand advocate says things with more credibility because money does not drive them. Keep them engaged, and you’ll likely catch more advocates along the way. Here are some ideas: Provide them a branded hashtag which they can put in posts or the bio, give discounts or just send a handwritten note to let them know how much you appreciate their support.
+A brand advocate is a person who enjoys your product or service so much that they say amazing things about it. It’s not just someone who leaves a good review or agrees to be quoted for testimonials. They are passionate enough to share their positive experience with your brand repeatedly. An advocate says things with more credibility because money does not drive them. Keep them engaged, and you’ll likely catch more advocates along the way. Here are some ideas: Provide them a branded hashtag which they can put in posts or the bio, give discounts or just send a handwritten note to let them know how much you appreciate their support.
 
 ![](24-brand-advocates.png)
