@@ -60,7 +60,7 @@ Do you manage a SaaS business, an online marketplace or a community platform? Le
 
 
 ### Pre-filling the shopping cart
-Preload the shopping cart with discounted upsells. Users will hesitate to remove them from the cart as they have already "got" them. If they don't buy the upsells now, at the discounted price, they feel they're likely to miss out on saving some money. This tactic may be considered as a dark pattern. Users can overlook the additional items and buy them without knowing it.
+Preload the shopping cart with discounted upsells. Users will hesitate to remove them from the cart as they have already "got" them. If they don't buy the upsells now at the discounted price, they feel they're likely to miss out on saving some money. This tactic may be considered as a dark pattern. Users can overlook the additional items and buy them without knowing it.
 
 ![](07-prefill-shopping-cart.png)
 
@@ -72,13 +72,13 @@ We've found an excellent source of information, but we don’t have time to delv
 
 
 ### Selfies and food pics
-Everyone has this one friend who takes pictures of all and everything. But that is usually not all. Based on a thorough selection process, the "winning" photo has the honor to get published on various social media platforms. The fear of losing a moment is, among other factors, one reason for this phenomenon of constantly taking pictures.
+Everyone has this one friend who takes pictures of all and everything. Usually, that's not all: Based on a thorough selection process, the "winning" photo has the honor to get published on various social media platforms. The fear of losing a moment is one of the drivers behind this phenomenon of constantly taking pictures.
 
 ![](09-photos.png)
 
 
 ### Scarcity
-As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by the scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
+As things become less available, they become more desirable. The fear of losing out on something can be a huge motivator. Sometimes, the buzz created by scarcity is sufficient to create a rush of panic buying. Because it's such a powerful tool, I've dedicated a whole post to the [principle of scarcity](/scarcity/).
 
 ![](10-scarcity.png)
 
