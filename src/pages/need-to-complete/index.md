@@ -26,7 +26,7 @@ No, I don't mean those bearded guys with hats. We're talking here about the step
 
 
 ### Progress bars
-People [want](http://dl.acm.org/citation.cfm?id=317459) progress indicators. They give feedback about the current status but also stimulate the desire to continue a process. Each time the progress bar moves through our actions, we feel the positive effects of dopamine which motivates us to repeat the previous task. This phenomenon is also referred as *self-directed learning* which is likely evolutionary developed to maximize learning opportunities and is therefore crucial for reproducing human intelligence ([Herd, Mingus & O'Reilly, 2010](https://grey.colorado.edu/mediawiki/sites/mingus/images/c/c0/HerdMingusOReilly10.pdf)).
+People [want](http://dl.acm.org/citation.cfm?id=317459) progress indicators. They give feedback about the current status but also stimulate the desire to continue a process. Each time the progress bar moves through our actions, we feel the positive effects of dopamine which motivates us to repeat the previous task. This phenomenon is also referred as *self-directed learning* which is likely evolutionary developed to maximize learning opportunities and therefore to reproduce human intelligence ([Herd, Mingus & O'Reilly, 2010](https://grey.colorado.edu/mediawiki/sites/mingus/images/c/c0/HerdMingusOReilly10.pdf)).
 
 ![](02-progress-bars.png)
 
