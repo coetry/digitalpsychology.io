@@ -24,64 +24,64 @@ People use the current situation as a reference point, and any change from that 
 ### Home try-on programs
 Many online eyeglass retailers let their potential customers receive multiple glasses to try on before buying. The convenience of this service lets someone find the perfect frames and get feedback from friends and family. They say there's no commitment, but the moment you put a pair of their glasses on your face, it's unlikely that you'll move forward without buying.
 
-![](01-home-try-on-programs.png)
+![Commitment and consistency example: Home try-on programs](01-home-try-on-programs.png)
 
 
 ### Social media contests
 Run a contest that encourages your prospective customers to self-identify as fans of your brand by requiring them for example to upload a photo of them in a particular situation. When someone made a public commitment, it’s easier to get them to do stuff. The more public, the stronger is the influence on future actions. A study shows that people who state publicly that they want to lose weight were significantly more successful ([Nyer & Delande, 2009](http://onlinelibrary.wiley.com/doi/10.1002/mar.20316/abstract)).
 
-![](02-social-media-contests.png)
+![Commitment and consistency example: Social media contests](02-social-media-contests.png)
 
 
 ### Online auctions
 Auction sites are designed to push peoples emotional buttons. Even before it begins, bidders imagine themselves in a winning situation. With their first bid, commitment and consistency kick in. It's not uncommon that potential buyers increase their maximum bid above a value they're comfortable with, just to win an item. Many describe this phenomenon as *auction fever*.
 
-![](03-online-auctions.png)
+![Commitment and consistency example: Online auctions](03-online-auctions.png)
 
 
 ### Pop-ups with Yes/No questions
 Let's face it: Pop-ups are not the most pleasant things on the internet - but they seem to work for some people very well. There is a trend in the recent years where visitors are given a choice when a pop-up appears: either say "yes" to leave your email address in a second step to get a freebie, or be foolish and choose "no". This tactic is commonly known as the *foot-in-the-door* technique, where a small agreement paves the way for subsequent, larger requests ([Freedman & Fraser, 1966](https://www.researchgate.net/publication/17217362_Compliance_Without_Pressure_The_Foot-in-the-Door_Technique)).
 
-![](04-popups.png)
+![Commitment and consistency example: Pop-ups with Yes/No questions](04-popups.png)
 
 
 ### Wish lists
 Give customers a choice between buying the product immediately or saving it for another time. E-commerce sites like Amazon know that when you add something to your wish list, you will be more likely to buy these items later because you have already acknowledged your desire to do so.
 
-![](05-wish-lists.png)
+![Commitment and consistency example: Wish lists](05-wish-lists.png)
 
 
 ### Asking for sensitive information last
 When setting up a payment or onboarding process, ask your users for personal details like the email address or credit card information at the end. By starting with the easiest tasks, your user will already be fully engaged in the process when it comes to the more sensitive information. Because he already invested his time so far, the user will be more likely to complete the whole process (sunk cost fallacy).
 
-![](06-asking-for-sensitive-information-last.png)
+![Commitment and consistency example: Asking for sensitive information last](06-asking-for-sensitive-information-last.png)
 
 
 ### Cross-selling
 Remember that smartphone you checked out online? The store may have recommended a screen protector or case to go along with your phone. That's cross-selling. When we decide to buy something, we're more inclined to buy additional accessories as we want to justify our initial decision and to remain consistent with it. Amazon, for example, attributes up to [35% of its revenue](http://www.the-future-of-commerce.com/2013/10/14/ecommerce-cross-sell-up-sell/) to cross-selling.
 
-![](07-cross-selling.png)
+![Commitment and consistency example: Cross-selling](07-cross-selling.png)
 
 
 ### Freemium and free trials
 Another way to invoke the principles of commitment and consistency is by offering a free trial or a freemium model like Dropbox does: When no free storage is left, or the trial expired, customers will be more inclined to upgrade to a paid plan since they've already committed to learning, setting up and using the new service.
 
-![](08-freemium-free-trials.png)
+![Commitment and consistency example: Freemium and free trials](08-freemium-free-trials.png)
 
 
 ### Commitment checkbox
 A mortgage company increased its [conversion rate by 11%](http://www.conversionvoodoo.com/blog/2010/07/11-conversion-rate-increase-with-a-%E2%80%9Ccommitment-checkbox%E2%80%9D/) with just adding a "commitment checkbox".
 
-![](09-commitment-checkbox.png)
+![Commitment and consistency example: Commitment checkbox](09-commitment-checkbox.png)
 
 
 ### Network effect
 When a greater number of users increases a product's value, then we have a network effect. Skype, Instagram, Airbnb, or eBay get better the more people join the network. Once we have committed for example to a messaging app like WhatsApp and convinced our peers to follow, it's doubtful that we'll try something different.
 
-![](10-network-effect.png)
+![Commitment and consistency example: Network effect](10-network-effect.png)
 
 
 ### User-generated content
 Each time a user feeds an application like Dropbox, Twitter, Evernote with information, he stores value in the form of data. The bigger and often these investments, the more likely is it that the user will come back again and again.
 
-![](11-user-generated-content.png)
+![Commitment and consistency example: User-generated content](11-user-generated-content.png)
