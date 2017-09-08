@@ -57,7 +57,7 @@ You don't want to miss out on a great deal, right? What about posts from your fa
 
 
 ### Providing a subscription feature
-Do you manage a SaaS business, an online marketplace or a community platform? Let your users subscribe to get notified when a long-running task finished, a price dropped, or someone posted something new. Find out which information your users could miss out and add an ability to create an [external trigger](/trigger/) for it.
+Do you manage a SaaS business, an online marketplace or a community platform? Let your users subscribe to get notified when a long-running task finished, a price dropped, or someone posted something new. Find out which information your users could miss out and add an ability to create an [external trigger](/triggers/) for it.
 
 ![](06-subscription-feature.png)
 
