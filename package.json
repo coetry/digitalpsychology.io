@@ -6,7 +6,7 @@
   "scripts": {
     "build": "rm -rf public/ && gatsby build",
     "clean": "rm -rf public/ && rm -rf .cache/ ",
-    "deploy": "yarn build && surge ./public danielstefanovic.com",
+    "deploy": "yarn build && surge ./public digitalpsychology.io",
     "lint": "eslint ./",
     "prod": "http-server ./public",
     "start": "gatsby develop"
