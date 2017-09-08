@@ -12,11 +12,14 @@ We feel a sense of obligation to return favors to people who have done something
 
 ## Studies
 
+### How about a can of soda?
 In an experiment, subject thought they were evaluating art. Also in the room was a fellow participant, who was in reality a research assistant. In one condition, the assistant would leave the room and bring back two cans of Coke – for him and the subject. In another condition, he would return empty-handed. At the end of the experiment, the assistant asked the participants if they would buy a raffle ticket from him. As expected, the subjects who had received the gift were twice more likely to purchase tickets, even though the tickets were far more expensive than the can of soda had been. ([Regan, 1971](http://www.communicationcache.com/uploads/1/0/8/8/10887248/effects_of_a_favor_and_liking_on_compliance.pdf))
 
+### Reward vs. reciprocity
 Reciprocity outperforms reward as a principle of persuasion when it comes to collecting correct contact information from a user. Asking for contact details, which would unlock a link to a whitepaper (reward) generated slightly more entries, but most of them invalid, whereas providing the whitepaper for free and then asking for contact information for further news (reciprocity), led to less, but overall more valid entries. ([Gamberini, Petrucci, Spoto & Spagnolli, 2007](https://link.springer.com/chapter/10.1007%2F978-3-540-77006-0_24))
 
-Even very inexpensive meals (< $20) sponsored by pharmaceutical firms led to an increase in physician prescriptions of the promoted brand-name medication. ([DeJong et al.,  2016](http://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2528290))
+### Sponsored meals tied to more prescriptions
+Even very inexpensive meals (< $20) sponsored by pharmaceutical firms led to an increase in physician prescriptions of the promoted brand-name medication, even when a generic equivalent was available. ([DeJong et al., 2016](http://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2528290))
 
 
 ## Examples
@@ -29,7 +32,7 @@ Write unique and high-quality posts for other blogs, of which they can be proud.
 
 
 ### Gifts in social games
-All gifting mechanisms in social games like FarmVille or Mafia Wars where a user can send in-game items to a friend rely on the principle of reciprocity. If I send you something won't you send me something back?
+All gifting mechanisms in social games like FarmVille or Mafia Wars where a user can send in-game items to a friend rely on the principle of reciprocity. If I send you something, won't you send me something back?
 
 ![](02-gifting-in-social-games.png)
 
