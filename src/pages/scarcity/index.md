@@ -2,6 +2,7 @@
 title: Scarcity
 draft: false
 image: 4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|4,5,6,7,8,9,10,11,12,13,14,15,16,17|5,6,7,8,9,10,11,12,13,14,15,16
+seoImage: "seo-image.png"
 ---
 
 The harder it is to get something, the more we want it. People often link availability to quality. As seen in the concept of [loss aversion](/loss-aversion/), we're far more motivated by the fear of losing than by the desire of gaining.

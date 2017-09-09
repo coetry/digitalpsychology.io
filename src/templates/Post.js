@@ -1,14 +1,16 @@
 import R from 'ramda';
 import React from 'react';
-import Helmet from 'react-helmet';
 
 import NextPost from '../components/NextPost';
 import Pagination from '../components/Pagination';
 import PostContent from '../components/PostContent';
+import SeoMetaTags from '../components/SeoMetaTags';
 
 function Post(props) {
     const post = props.data.markdownRemark;
-    const siteTitle = props.data.site.siteMetadata.title;
+    const siteMeta = props.data.site.siteMetadata;
+    const seoImage = siteMeta.baseUrl
+        + R.path(['frontmatter', 'seoImage', 'childImageSharp', 'resize', 'src'], post);
 
     // Get paths for pagination
     const edgesPath = ['data', 'allMarkdownRemark', 'edges'];
@@ -21,7 +23,11 @@ function Post(props) {
 
     return (
         <div>
-            <Helmet title={`${post.frontmatter.title} » ${siteTitle}`} />
+            <SeoMetaTags
+                description={siteMeta.description}
+                image={seoImage}
+                title={`${post.frontmatter.title} » ${siteMeta.title}`}
+                twitterHandle={siteMeta.twitterHandle} />
             <Pagination next={nextPath} previous={previousPath} />
             <PostContent content={post.html} title={post.frontmatter.title} />
             <NextPost title={nextTitle} to={nextPath} />
@@ -36,7 +42,10 @@ export const pageQuery = graphql`
     query PostBySlug($slug: String!) {
         site {
             siteMetadata {
+                baseUrl
                 title
+                twitterHandle
+                description
             }
         }
         markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -46,6 +55,13 @@ export const pageQuery = graphql`
             }
             frontmatter {
                 title
+                seoImage {
+                    childImageSharp {
+                        resize(width: 1000) {
+                            src
+                        }
+                    }
+                }
             }
         }
         allMarkdownRemark (

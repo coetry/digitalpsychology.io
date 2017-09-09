@@ -2,6 +2,7 @@
 title: Rewards
 draft: false
 image: 4,5,6,15,16,17|3,4,7,14,17,18|4,5,8,13,16,17|5,6,9,12,15,16|7,8,9,10,11,12,13,14|1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20|1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20|1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19,20||2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19|2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19
+seoImage: "seo-image.png"
 ---
 
 Everybody likes rewards and appreciation. A shot of dopamine gets released and mediates pleasure in the brain. The increase in dopamine level also encourages our brain to remember the prior action so that we can repeat it to get the reward again. In other words: rewards make us come back for more.

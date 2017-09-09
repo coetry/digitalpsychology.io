@@ -1,7 +1,10 @@
 module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
-        title: `Digital Psychology`
+        baseUrl: `http://digitalpsychology.io`,
+        title: `Digital Psychology`,
+        twitterHandle: `danistefanovic`,
+        description: `Elevate your product with psychology`
     },
     plugins: [
         {
@@ -11,6 +14,7 @@ module.exports = {
                 path: `${__dirname}/src/pages/`
             }
         },
+        `gatsby-transformer-sharp`,
         {
             resolve: `gatsby-transformer-remark`,
             options: {

@@ -2,6 +2,7 @@
 title: Need to Complete
 draft: false
 image: 18,19|17,18,19|16,17,18,19|15,16,17,18|15,16,17,18|14,15,16,17|13,14,15,16,17|12,13,14,15,16|12,13,14,15|11,12,13,14,15|10,11,12,13,14|9,10,11,12,13|3,4,9,10,11,12,13|2,3,4,5,8,9,10,11,12|2,3,4,5,6,7,8,9,10,11|3,4,5,6,7,8,9,10,11|4,5,6,7,8,9,10|5,6,7,8,9|6,7,8|
+seoImage: "seo-image.png"
 ---
 
 We as humans don't like to leave things incomplete. We are motivated to finish a set of tasks even with no further reward other than the satisfaction of completion.

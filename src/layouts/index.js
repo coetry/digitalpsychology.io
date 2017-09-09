@@ -30,7 +30,7 @@ function Template(props) {
             <Header />
             <Main>
                 {props.children()}
-                <Footer />
+                <Footer twitterHandle={config.siteMetadata.twitterHandle} />
             </Main>
         </Root>
     );

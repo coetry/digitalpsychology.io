@@ -5,7 +5,7 @@ import { colors, fonts, linkStyle, sizes } from '../css/variables';
 import Container from './Container';
 import OutgoingLink from './OutgoingLink';
 
-function Footer() {
+function Footer(props) {
     const Root = styled.div`
         padding: ${sizes.l} ${sizes.xl};
         background-color: ${colors.highlight};
@@ -47,7 +47,7 @@ function Footer() {
                     and examples for inspiration to enhance customer experience and
                     influence your user's behavior. `}
 
-                    Written by <OutgoingLink to="https://twitter.com/danistefanovic">Daniel Stefanovic</OutgoingLink>.
+                    Written by <OutgoingLink to={`https://twitter.com/${props.twitterHandle}`}>Daniel Stefanovic</OutgoingLink>.
                 </Info>
 
                 <ul>

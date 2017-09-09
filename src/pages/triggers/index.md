@@ -2,6 +2,7 @@
 title: Triggers
 draft: false
 image: 12|11,12|11,12|10,11|9,10,11|8,9,10,11|8,9,10|7,8,9,10|6,7,8,9,10,11,12,13,14,15,16,17|5,6,7,8,9,10,11,12,13,14,15,16|5,6,7,8,9,10,11,12,13,14,15,16|4,5,6,7,8,9,10,11,12,13,14,15|11,12,13,14|11,12,13|10,11,12,13|10,11,12|10,11|9,10|9,10|9
+seoImage: "seo-image.png"
 ---
 
 Triggers are anything that sparks us to complete a particular action. They tell us what to do next and come in the form of internal and external triggers.
