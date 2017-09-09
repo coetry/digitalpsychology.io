@@ -1,12 +1,13 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import Helmet from 'react-helmet';
 import styled from 'styled-components';
 
 import Footer from '../components/Footer';
 import Header from '../components/Header';
+import SeoMetaTags from '../components/SeoMetaTags';
 import config from '../../gatsby-config';
 import '../css/global';
+import image from './seo-image.png';
 
 function Template(props) {
     const Root = styled.div`
@@ -26,7 +27,11 @@ function Template(props) {
 
     return (
         <Root>
-            <Helmet title={config.siteMetadata.title} />
+            <SeoMetaTags
+                description={config.siteMetadata.description}
+                image={config.siteMetadata.baseUrl + image}
+                title={config.siteMetadata.title}
+                twitterHandle={config.siteMetadata.twitterHandle} />
             <Header />
             <Main>
                 {props.children()}
