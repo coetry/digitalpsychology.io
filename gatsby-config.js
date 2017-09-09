@@ -4,7 +4,7 @@ module.exports = {
         baseUrl: `http://digitalpsychology.io`,
         title: `Digital Psychology`,
         twitterHandle: `danistefanovic`,
-        description: `Elevate your product with psychology`
+        description: `Elevate your product.`
     },
     plugins: [
         {

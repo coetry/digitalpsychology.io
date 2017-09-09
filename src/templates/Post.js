@@ -57,7 +57,7 @@ export const pageQuery = graphql`
                 title
                 seoImage {
                     childImageSharp {
-                        resize(width: 1000) {
+                        resize(width: 1000, quality: 100) {
                             src
                         }
                     }
