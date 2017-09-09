@@ -37,7 +37,7 @@ function Footer() {
         letter-spacing: 1px;
     `;
 
-    const tweet = `100+ ways to add psychology to your digital product`;
+    const tweet = `Elevate your product with`;
 
     return (
         <Root>
