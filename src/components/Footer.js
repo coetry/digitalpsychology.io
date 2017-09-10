@@ -44,7 +44,7 @@ function Footer(props) {
             <Container>
                 <Info>
                     {`Digital Psychology – a free library of psychological principles
-                    and examples for inspiration to enhance customer experience and
+                    and examples for inspiration to enhance the customer experience and
                     influence your user's behavior. `}
 
                     Written by <OutgoingLink to={`https://twitter.com/${props.twitterHandle}`}>Daniel Stefanovic</OutgoingLink>.
