@@ -1,11 +1,12 @@
 module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
+        author: `Daniel Stefanovic`,
+        description: `Elevate your product.`,
         facebookAppId: `310591556081648`,
         siteUrl: `http://digitalpsychology.io`,
         title: `Digital Psychology`,
-        twitterHandle: `danistefanovic`,
-        description: `Elevate your product.`
+        twitterHandle: `danistefanovic`
     },
     plugins: [
         {

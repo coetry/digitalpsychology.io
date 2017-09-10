@@ -8,8 +8,8 @@ import SeoMetaTags from '../components/SeoMetaTags';
 
 function Post(props) {
     const post = props.data.markdownRemark;
-    const siteMeta = props.data.site.siteMetadata;
-    const seoImage = siteMeta.siteUrl
+    const meta = props.data.site.siteMetadata;
+    const seoImage = meta.siteUrl
         + R.path(['frontmatter', 'seoImage', 'childImageSharp', 'resize', 'src'], post);
 
     // Get paths for pagination
@@ -24,13 +24,17 @@ function Post(props) {
     return (
         <div>
             <SeoMetaTags
-                description={siteMeta.description}
-                facebookAppId={siteMeta.facebookAppId}
-                image={seoImage}
-                title={`${post.frontmatter.title} » ${siteMeta.title}`}
-                twitterHandle={siteMeta.twitterHandle}
+                author={meta.author}
+                datePublished={post.frontmatter.datePublished}
+                description={meta.description}
+                facebookAppId={meta.facebookAppId}
+                image={{ url: seoImage, width: 1000, height: 500 }}
+                logo={{ url: `${meta.siteUrl}/logo-structured-data.png`, width: 600, height: 60 }}
+                publisher={meta.title}
+                title={`${post.frontmatter.title} » ${meta.title}`}
+                twitterHandle={meta.twitterHandle}
                 type="article"
-                url={siteMeta.siteUrl + post.fields.path} />
+                url={meta.siteUrl + post.fields.path} />
             <Pagination next={nextPath} previous={previousPath} />
             <PostContent content={post.html} title={post.frontmatter.title} />
             <NextPost title={nextTitle} to={nextPath} />
@@ -45,6 +49,7 @@ export const pageQuery = graphql`
     query PostBySlug($slug: String!) {
         site {
             siteMetadata {
+                author
                 description
                 facebookAppId
                 title
@@ -59,6 +64,7 @@ export const pageQuery = graphql`
                 slug
             }
             frontmatter {
+                datePublished
                 title
                 seoImage {
                     childImageSharp {

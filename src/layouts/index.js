@@ -4,12 +4,12 @@ import styled from 'styled-components';
 
 import Footer from '../components/Footer';
 import Header from '../components/Header';
-import SeoMetaTags from '../components/SeoMetaTags';
 import config from '../../gatsby-config';
 import '../css/global';
-import image from './seo-image.png';
 
 function Template(props) {
+    const meta = config.siteMetadata;
+
     const Root = styled.div`
         display: flex;
         flex-direction: column;
@@ -27,18 +27,10 @@ function Template(props) {
 
     return (
         <Root>
-            <SeoMetaTags
-                description={config.siteMetadata.description}
-                facebookAppId={config.siteMetadata.facebookAppId}
-                image={config.siteMetadata.baseUrl + image}
-                title={config.siteMetadata.title}
-                twitterHandle={config.siteMetadata.twitterHandle}
-                type="website"
-                url={config.siteMetadata.baseUrl} />
             <Header />
             <Main>
                 {props.children()}
-                <Footer twitterHandle={config.siteMetadata.twitterHandle} />
+                <Footer twitterHandle={meta.twitterHandle} />
             </Main>
         </Root>
     );
