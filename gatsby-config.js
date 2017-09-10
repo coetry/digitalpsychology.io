@@ -1,8 +1,8 @@
 module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
-        baseUrl: `http://digitalpsychology.io`,
         facebookAppId: `310591556081648`,
+        siteUrl: `http://digitalpsychology.io`,
         title: `Digital Psychology`,
         twitterHandle: `danistefanovic`,
         description: `Elevate your product.`
@@ -39,6 +39,7 @@ module.exports = {
         `gatsby-plugin-sharp`,
         `gatsby-plugin-styled-components`,
         `gatsby-plugin-react-helmet`,
+        `gatsby-plugin-sitemap`,
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {

@@ -9,7 +9,7 @@ import SeoMetaTags from '../components/SeoMetaTags';
 function Post(props) {
     const post = props.data.markdownRemark;
     const siteMeta = props.data.site.siteMetadata;
-    const seoImage = siteMeta.baseUrl
+    const seoImage = siteMeta.siteUrl
         + R.path(['frontmatter', 'seoImage', 'childImageSharp', 'resize', 'src'], post);
 
     // Get paths for pagination
@@ -30,7 +30,7 @@ function Post(props) {
                 title={`${post.frontmatter.title} » ${siteMeta.title}`}
                 twitterHandle={siteMeta.twitterHandle}
                 type="article"
-                url={siteMeta.baseUrl + post.fields.path} />
+                url={siteMeta.siteUrl + post.fields.path} />
             <Pagination next={nextPath} previous={previousPath} />
             <PostContent content={post.html} title={post.frontmatter.title} />
             <NextPost title={nextTitle} to={nextPath} />
@@ -45,11 +45,11 @@ export const pageQuery = graphql`
     query PostBySlug($slug: String!) {
         site {
             siteMetadata {
-                baseUrl
+                description
                 facebookAppId
                 title
                 twitterHandle
-                description
+                siteUrl
             }
         }
         markdownRemark(fields: { slug: { eq: $slug } }) {
