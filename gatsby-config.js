@@ -2,6 +2,7 @@ module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
         baseUrl: `http://digitalpsychology.io`,
+        facebookAppId: `310591556081648`,
         title: `Digital Psychology`,
         twitterHandle: `danistefanovic`,
         description: `Elevate your product.`

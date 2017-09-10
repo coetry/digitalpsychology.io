@@ -29,9 +29,12 @@ function Template(props) {
         <Root>
             <SeoMetaTags
                 description={config.siteMetadata.description}
+                facebookAppId={config.siteMetadata.facebookAppId}
                 image={config.siteMetadata.baseUrl + image}
                 title={config.siteMetadata.title}
-                twitterHandle={config.siteMetadata.twitterHandle} />
+                twitterHandle={config.siteMetadata.twitterHandle}
+                type="website"
+                url={config.siteMetadata.baseUrl} />
             <Header />
             <Main>
                 {props.children()}

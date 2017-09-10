@@ -25,9 +25,12 @@ function Post(props) {
         <div>
             <SeoMetaTags
                 description={siteMeta.description}
+                facebookAppId={siteMeta.facebookAppId}
                 image={seoImage}
                 title={`${post.frontmatter.title} » ${siteMeta.title}`}
-                twitterHandle={siteMeta.twitterHandle} />
+                twitterHandle={siteMeta.twitterHandle}
+                type="article"
+                url={siteMeta.baseUrl + post.fields.path} />
             <Pagination next={nextPath} previous={previousPath} />
             <PostContent content={post.html} title={post.frontmatter.title} />
             <NextPost title={nextTitle} to={nextPath} />
@@ -43,6 +46,7 @@ export const pageQuery = graphql`
         site {
             siteMetadata {
                 baseUrl
+                facebookAppId
                 title
                 twitterHandle
                 description
@@ -51,6 +55,7 @@ export const pageQuery = graphql`
         markdownRemark(fields: { slug: { eq: $slug } }) {
             html
             fields {
+                path
                 slug
             }
             frontmatter {
