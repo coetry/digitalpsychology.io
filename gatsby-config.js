@@ -37,6 +37,40 @@ module.exports = {
                 ]
             }
         },
+        {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+                name: `Digital Psychology`,
+                short_name: `Digital Psychology`,
+                start_url: `/?utm_source=homescreen`,
+                background_color: `#ffffff`,
+                theme_color: `#ffffff`,
+                display: `minimal-ui`,
+                icons: [
+                    {
+                        src: `/logo-128.png`,
+                        sizes: `128x128`,
+                        type: `image/png`
+                    },
+                    {
+                        src: `/logo-158.png`,
+                        sizes: `158x158`,
+                        type: `image/png`
+                    },
+                    {
+                        src: `/logo-197.png`,
+                        sizes: `197x197`,
+                        type: `image/png`
+                    },
+                    {
+                        src: `/logo-512.png`,
+                        sizes: `512x512`,
+                        type: `image/png`
+                    }
+                ]
+            }
+        },
+        `gatsby-plugin-offline`,
         `gatsby-plugin-sharp`,
         `gatsby-plugin-styled-components`,
         `gatsby-plugin-react-helmet`,
