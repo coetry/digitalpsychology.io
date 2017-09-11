@@ -11,8 +11,8 @@ injectGlobal`
     }
 
     html {
+        ${fonts.text}
         font-size: 14px;
-        font-family: ${fonts.text};
         line-height: 1.6;
 
         @media (min-width: 500px) {
@@ -26,15 +26,12 @@ injectGlobal`
 
     body {
         background-color: ${colors.bg};
-        color: ${colors.text};
         margin: 0;
         padding: 0;
     }
 
     h1, h2, h3 {
-        color: ${colors.heading};
-        font-family: ${fonts.heading};
-        letter-spacing: 1px;
+        ${fonts.heading}
     }
 
     h1 {

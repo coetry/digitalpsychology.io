@@ -18,18 +18,15 @@ function PatternList(props) {
     `;
 
     const Item = styled(Link)`
+        ${fonts.heading}
+        font-size: 1rem;
+        line-height: 1.2;
         position: relative;
         display: flex;
         justify-content: flext-start;
         align-items: center;
         flex-direction: row;
-
         padding: 1rem ${sizes.xl};
-        font-family: ${fonts.heading};
-        font-size: 1rem;
-        line-height: 1.2;
-        color: ${colors.heading};
-        letter-spacing: 1px;
 
         figure {
             position: absolute;
@@ -54,10 +51,10 @@ function PatternList(props) {
     `;
 
     const Index = styled.span`
-        display: inline-block;
-        font-family: ${fonts.heading};
-        margin-right: 2rem;
+        ${fonts.heading}
         color: ${colors.textWeak};
+        display: inline-block;
+        margin-right: 2rem;
     `;
 
     const Title = styled.span`

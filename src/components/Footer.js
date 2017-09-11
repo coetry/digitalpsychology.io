@@ -35,10 +35,7 @@ function Footer(props) {
     `;
 
     const Anchor = styled(OutgoingLink)`
-        color: ${colors.heading};
-        font-family: ${fonts.heading};
-        font-weight: bold;
-        letter-spacing: 1px;
+        ${fonts.heading}
     `;
 
     const tweet = `Elevate your product with`;

@@ -8,8 +8,17 @@ export const colors = {
 };
 
 export const fonts = {
-    heading: `'Roboto mono', monospace`,
-    text: `'Roboto', sans-serif`
+    heading: `
+        font-family: 'Roboto mono', monospace;
+        font-weight: 700;
+        color: ${colors.heading};
+        letter-spacing: 1px;
+    `,
+    text: `
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        color: ${colors.text};
+    `
 };
 
 export const sizes = {
