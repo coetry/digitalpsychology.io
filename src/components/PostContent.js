@@ -6,7 +6,11 @@ import Container from './Container';
 
 export default function PostContent(props) {
     const Root = styled(Container)`
-        margin: ${sizes.l} ${sizes.xl};
+        margin: ${sizes.l} 2rem;
+
+        @media (min-width: 500px) {
+            margin: ${sizes.l} ${sizes.xl};
+        }
 
         img {
             border: 1px solid ${colors.border};

@@ -7,9 +7,13 @@ import OutgoingLink from './OutgoingLink';
 
 function Footer(props) {
     const Root = styled.div`
-        padding: ${sizes.l} ${sizes.xl};
+        padding: ${sizes.l} 2rem;
         background-color: ${colors.highlight};
         border-top: 1px solid ${colors.border};
+
+        @media (min-width: 500px) {
+            padding: ${sizes.l} ${sizes.xl};
+        }
 
         ul {
             list-style: none;
