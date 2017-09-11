@@ -1,10 +1,34 @@
 import { injectGlobal } from 'styled-components';
 
+import robotoWoff from './fonts/roboto-latin-300.woff';
+import robotoWoff2 from './fonts/roboto-latin-300.woff2';
+import robotoMonoWoff from './fonts/roboto-mono-latin-500.woff';
+import robotoMonoWoff2 from './fonts/roboto-mono-latin-500.woff2';
 import { colors, fonts } from './variables';
 
 // eslint-disable-next-line no-unused-expressions
 injectGlobal`
-    @import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto:300');
+    @font-face {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        src:
+            local('Roboto Light'),
+            local('Roboto-Light'),
+            url(${robotoWoff2}) format('woff2'),
+            url(${robotoWoff}) format('woff');
+    }
+
+    @font-face {
+        font-family: 'Roboto Mono';
+        font-style: normal;
+        font-weight: 500;
+        src:
+            local('Roboto Mono Medium'),
+            local('RobotoMono-Medium'),
+            url(${robotoMonoWoff2}) format('woff2'),
+            url(${robotoMonoWoff}) format('woff');
+    }
 
     * {
         box-sizing: border-box;
