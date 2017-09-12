@@ -38,7 +38,7 @@ Make your progress indicator prominent, and show after the first completed task 
 
 
 ### Counters and notifications
-You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk) approach: a technique developed by Merlin Mann to keep your email inbox empty almost all the time. For many people triggers a counter, that indicates incomplete tasks, discomfort which we try to avoid. According to a study from 2002, employees reacted to 70% of their unread emails [within 6 seconds](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/489/3/Ease%2525202002%252520Jackson.pdf). These interruptions can be instant gratification. They give us little dopamine rushes every time we complete something, which in turn, [reinforces us](/rewards/) to lurk for more distractions.
+You might have heard about the [Inbox Zero](https://www.youtube.com/watch?v=z9UjeTMb3Yk) approach: a technique developed by Merlin Mann to keep your email inbox empty almost all the time. For many people, counters, especially those that indicate incomplete tasks, trigger discomfort, which we try to avoid. According to a study from 2002, employees reacted to 70% of their unread emails [within 6 seconds](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/489/3/Ease%2525202002%252520Jackson.pdf). These interruptions can be instant gratification. They give us little dopamine rushes every time we complete something, which in turn, [reinforces us](/rewards/) to lurk for more distractions.
 
 ![Need to Complete Example: Counters and notifications](04-counters-notifications.png)
 
