@@ -6,71 +6,71 @@ image: 10,11|10,11|9,10,11,12|9,10,11,12|8,9,10,11,12,13|8,9,10,11,12,13|7,8,9,1
 seoImage: "seo-image.png"
 ---
 
-People feel losses more deeply than gains of the same value. In other words, it's more painful to lose something than the positive feelings from the getting the same thing.
+People feel losses more deeply than gains of the same value. In other words, it's more painful to lose something than to get that same thing.
 
 Imagine you overhear your boss talking to the HR manager about giving you a raise of $200 per month. How would you feel about this surprising boost in pay? How would you feel if you hear your boss saying he wants to cut your salary by the same amount?
 
 
 ## Studies
 
-Losses have not as much as an impact as they are predicted. We tend to overestimate to dwell on negative experiences. Therefore is Loss Aversion Example more a property of forecasts than a characteristic of an actual experience. ([Kermer, Driver-Linn, Wilson & Gilbert, 2006](http://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01760.x))
+Losses have less of an impact than predicted. We tend to overestimate and dwell on negative experiences. Therefore, loss aversion is more a property of forecasts than a characteristic of an actual experience ([Kermer, Driver-Linn, Wilson & Gilbert, 2006](http://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01760.x)).
 
-Investors tend to be more prone to *myopic Loss Aversion Example* (MLA), a concept of a combination of high sensitivity to losses and a tendency to check their wealth too frequently. This bias leads to a short-term view that causes irrational decisions. ([Haigh & List, 2005](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2005.00737.x/full))
+Investors tend to be more prone to *myopic loss aversion* (MLA), a concept that is a combination of a high sensitivity to losses and a tendency to check their wealth too frequently ([Haigh & List, 2005](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2005.00737.x/full)). This bias leads to a short-term view that causes irrational decisions.
 
 
 ## Examples
 
 
 ### Focusing on the loss in offers
-Talk of what your potential customer will lose if they don’t purchase rather than what they would gain by buying. We tend to give losses twice as much more psychological weight as gains ([Tversky & Kahneman, 1992](http://cemi.ehess.fr/docannexe/file/2780/tversjy_kahneman_advances.pdf)).
+Talk about what your potential customer will lose if they don’t purchase, rather than what they would gain by buying. We tend to give losses twice as much psychological weight as we do gains ([Tversky & Kahneman, 1992](http://cemi.ehess.fr/docannexe/file/2780/tversjy_kahneman_advances.pdf)).
 
 ![Loss Aversion Example:](01-focus-on-loss-offer.png)
 
 
 ### Negative headlines
-The same principle can also be applied to headlines of landing pages or blog posts. We don’t want to lose anything we value. Perform split tests to see which type of headlines works best for your audience.
+The same principle can also be applied to headlines of landing pages or blog posts. We don’t want to lose anything we value. Perform split tests to see which type of headline works best for your audience.
 
 ![Loss Aversion Example: Negative headlines](02-focus-on-loss-headline.png)
 
 
 ### Free trials
-Loss Aversion Example is one of the reasons why free trials work so well for SaaS businesses. When for example a 30 days trial period ends, giving up premium features or the complete service feels like losing.
+Loss aversion is one of the reasons why free trials work so well for SaaS businesses. When, for example, a 30-day trial period ends, giving up premium features or the complete service feels like losing.
 
 ![Loss Aversion Example: Free trials](03-free-trial.png)
 
 
 ### Lazy registration
-Let your customers enter data into your service before even signing up. So, they get to play with the app and invest time. To be able to save their work they have to register an account. This step is then smaller than losing what they have already built.
+Let your customers enter data into your service before even signing up, so that they get to play with the app and invest time. To be able to save their work, they have to register an account. This step is then smaller than losing what they have already built.
 
 ![Loss Aversion Example: Lazy registration](04-lazy-registration.png)
 
 
 ### Newsletters
-You don't want to miss out on a great deal, right? What about posts from your favorite blogger? Provide exceptional value to your audience, and they will fear they will miss out something.
+You don't want to miss out on a great deal, right? What about posts from your favorite blogger? Provide exceptional value to your audience, and they will fear that they will miss out on something.
 
 ![Loss Aversion Example: Newsletters](05-newsletter.png)
 
 
 ### Providing a subscription feature
-Do you manage a SaaS business, an online marketplace or a community platform? Let your users subscribe to get notified when a long-running task finished, a price dropped, or someone posted something new. Find out which information your users could miss out and add an ability to create an [external trigger](/triggers/) for it.
+Do you manage a SaaS business, an online marketplace, or a community platform? Let your users subscribe to get notified when a long-running task is finished, a price has dropped, or someone has posted something new. Find out what information your users could miss out on and add the ability to create an [external trigger](/triggers/) for it.
 
 ![Loss Aversion Example: Providing a subscription feature](06-subscription-feature.png)
 
 
 ### Pre-filling the shopping cart
-Preload the shopping cart with discounted upsells. Users will hesitate to remove them from the cart as they have already "got" them. If they don't buy the upsells now at the discounted price, they feel they're likely to miss out on saving some money. This tactic may be considered as a dark pattern. Users can overlook the additional items and buy them without knowing it.
+Preload the shopping cart with discounted upsells. Users will hesitate to remove them from the cart as they have already "got" them. If they don't buy the upsells at the discounted price now, they feel they're likely to miss out on saving money. This tactic may be considered as a dark pattern. Users can overlook the additional items and buy them without knowing it.
 
 ![Loss Aversion Example: Pre-filling the shopping cart](07-prefill-shopping-cart.png)
 
 
 ### Bookmarks
-We've found an excellent source of information, but we don’t have time to delve into it now, so we bookmark it for later. Bookmarking services but also sites like Pinterest are based on the fear of missing out some good content.
+We found an excellent source of information, but we don’t have time to delve into it now, so we bookmark it for later. Bookmarking services, but also sites like Pinterest, are based on the fear of missing out on some good content.
 
 ![Loss Aversion Example: Bookmarks](08-bookmarks.png)
 
 
 ### Selfies and food pics
-Everyone has this one friend who takes pictures of all and everything. Usually, that's not all: Based on a thorough selection process, the "winning" photo has the honor to get published on various social media platforms. The fear of losing a moment is one of the drivers behind this phenomenon of constantly taking pictures.
+Everyone has that one friend who takes pictures of anything and everything. Usually, that's not all. Based on a thorough selection process, the "winning" photo has the honor of getting published on various social media platforms. The fear of losing a moment is one of the drives behind this phenomenon of constantly taking pictures.
 
 ![Loss Aversion Example: Selfies and food pics](09-photos.png)
 
