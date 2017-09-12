@@ -11,11 +11,11 @@ We tend to rely too heavily on one piece of information, usually the first one, 
 
 ## Studies
 
-Two groups of high school students were asked to compute, within 5 seconds, the product of the numbers one through eight (1 x 2 x 3...) or the reverse (8 x 7 x 6...).  Because of the short time, they had to estimate the product after the first multiplications. These first results gave an anchor for their final answer. The median estimate of the first group was 512, while the median for the descending sequence was 2,250. The correct answer is: 40,320. ([Tversky & Kahneman, 1974](http://science.sciencemag.org/content/185/4157/1124))
+Two groups of high school students were asked by [Tversky and Kahneman (1974)](http://science.sciencemag.org/content/185/4157/1124) to compute, within 5 seconds, the product of the numbers one through eight (1 x 2 x 3...) or the reverse (8 x 7 x 6...).  Because of the short time, they had to estimate the product after the first multiplications. These first results gave an anchor for their final answer. The median estimate of the first group was 512, while the median for the descending sequence was 2,250. The correct answer is: 40,320.
 
-Judges score better than others on some cognitive illusions like the framing effect (treating economically equivalent gains and losses differently) or representativeness heuristic (ignoring background statistical information in favor of individuating information) but are equally prone to the anchoring effect. ([Guthrie, Rachlinski & Wistrich, 2001](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=257634))
+Judges score better than others on some cognitive illusions like the framing effect (treating economically equivalent gains and losses differently) or representativeness heuristic (ignoring background statistical information in favor of individuating information) but are equally prone to the anchoring effect ([Guthrie, Rachlinski & Wistrich, 2001](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=257634)).
 
-Job seekers who anchor first and high in salary negotiations usually get a higher wage. Even a joking comment about an implausible salary could bring the final salary offer up. ([Thorsteinson, 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2011.00779.x/abstract))
+Job seekers who anchor first and high in salary negotiations usually get a higher wage. Even a joking comment about an implausible salary could bring the final salary offer up ([Thorsteinson, 2011](http://onlinelibrary.wiley.com/doi/10.1111/j.1559-1816.2011.00779.x/abstract)).
 
 
 ## Examples
@@ -51,6 +51,6 @@ The number of units in a promotion serves as an anchor, and indicates which quan
 
 
 ### Exposing users to a quantity limit
-A study evaluated if setting quantity limits affects shopping behavior. Buyers purchased an average of 3.3 cans of soup when they had no limit, whereas shoppers with a limit of 12 bought an average of 7 cans. ([Wansink, Kent & Hoch, 1998](http://foodpsychology.cornell.edu/sites/default/files/unmanaged_files/Anchoring-JMR-1998.pdf))
+A study by [Wansink, Kent and Hoch (1998)](http://foodpsychology.cornell.edu/sites/default/files/unmanaged_files/Anchoring-JMR-1998.pdf) evaluated if setting quantity limits affects shopping behavior. In the experiment, buyers purchased an average of 3.3 cans of soup when they had no limit, whereas shoppers with a limit of 12 bought an average of 7 cans.
 
 ![Anchoring example: Exposing users to a quantity limit](06-quantity-limit.png)

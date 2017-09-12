@@ -17,7 +17,7 @@ Internal triggers, on the other hand, are impulses that come from within us. Mem
 
 Ivan Pavlov demonstrated that dogs could be conditioned to salivate at the sound of a bell ([Pavlov, 1927](http://psychclassics.yorku.ca/Pavlov/)). He trained the dogs to respond in that way by ringing a bell before feeding them. This learning procedure came to be known as *classical conditioning*.
 
-According to BJ Fogg's behavior model, three elements must be present for the desired behavior to occur: motivation, ability, and trigger. In other words, it has to bring value, be simple to complete and should draw attention. If one or more is missing, the desired action will not happen. ([Fogg, 2009](http://dl.acm.org/citation.cfm?doid=1541948.1541999))
+According to BJ Fogg's behavior model, three elements must be present for the desired behavior to occur: motivation, ability, and trigger. In other words, it has to bring value, be simple to complete and should draw attention. If one or more is missing, the desired action will not happen ([Fogg, 2009](http://dl.acm.org/citation.cfm?doid=1541948.1541999)).
 
 
 ## Examples
