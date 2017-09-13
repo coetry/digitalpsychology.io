@@ -2,7 +2,7 @@ module.exports = {
     pathPrefix: `/`,
     siteMetadata: {
         author: `Daniel Stefanovic`,
-        description: `Elevate your product.`,
+        description: `A free library of psychological principles and examples to elevate your SaaS, e-commerce or other digital products.`,
         facebookAppId: `310591556081648`,
         siteUrl: `http://digitalpsychology.io`,
         title: `Digital Psychology`,
