@@ -70,7 +70,9 @@ module.exports = {
                 ]
             }
         },
-        `gatsby-plugin-offline`,
+        // Deactivate for now because service workers
+        // are only supported via https
+        // `gatsby-plugin-offline`,
         `gatsby-plugin-sharp`,
         `gatsby-plugin-styled-components`,
         `gatsby-plugin-react-helmet`,
