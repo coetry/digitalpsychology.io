@@ -27,5 +27,4 @@ export default function PostContent(props) {
             <div dangerouslySetInnerHTML={{ __html: props.content }} />
         </Root>
     );
-
 }

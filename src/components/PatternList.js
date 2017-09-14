@@ -1,5 +1,3 @@
-/* global __PATH_PREFIX__  */
-
 import Link from 'gatsby-link';
 import leftPad from 'left-pad';
 import PropTypes from 'prop-types';

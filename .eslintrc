@@ -6,6 +6,7 @@
         "eslint-config-infektweb/configs/react",
     ],
     "rules": {
+        "no-confusing-arrow": ["error", {"allowParens": true}],
         "react/forbid-prop-types": 0,
         "react/jsx-no-literals": 0,
         "react/prop-types": 0,

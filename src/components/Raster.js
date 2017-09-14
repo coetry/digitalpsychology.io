@@ -20,9 +20,7 @@ function Raster(props) {
     `;
 
     const Point = styled.div`
-        background-color: ${(props) => {
-            return props.active ? colors.border : 'transparent';
-        }};
+        background-color: ${(props) => (props.active ? colors.border : 'transparent')};
     `;
 
     return (

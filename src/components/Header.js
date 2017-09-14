@@ -44,7 +44,7 @@ function Header() {
                 <Anchor to="/">
                     {`Digital Psychology`}
                 </Anchor>
-             </Title>
+            </Title>
         </Root>
     );
 }
