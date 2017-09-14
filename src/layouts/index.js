@@ -17,13 +17,16 @@ const Root = styled.div`
     }
 `;
 
-const Main = styled.div`
-    flex: 1;
-    overflow: auto;
-`;
-
 function Template(props) {
     const meta = config.siteMetadata;
+
+    // This "styled" component has to remain
+    // inside *Template* otherwise page navigations
+    // would not trigger a scroll to top
+    const Main = styled.div`
+        flex: 1;
+        overflow: auto;
+    `;
 
     return (
         <Root>
