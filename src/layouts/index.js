@@ -7,23 +7,23 @@ import Header from '../components/Header';
 import config from '../../gatsby-config';
 import '../css/global';
 
+const Root = styled.div`
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+    @media (min-width: 700px) {
+        flex-direction: row;
+    }
+`;
+
+const Main = styled.div`
+    flex: 1;
+    overflow: auto;
+`;
+
 function Template(props) {
     const meta = config.siteMetadata;
-
-    const Root = styled.div`
-        display: flex;
-        flex-direction: column;
-        height: 100vh;
-
-        @media (min-width: 700px) {
-            flex-direction: row;
-        }
-    `;
-
-    const Main = styled.div`
-        flex: 1;
-        overflow: auto;
-    `;
 
     return (
         <Root>

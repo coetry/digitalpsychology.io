@@ -4,20 +4,20 @@ import styled from 'styled-components';
 
 import { linkStyle, sizes } from '../css/variables';
 
+const Root = styled.div`
+    padding: 0 2rem ${sizes.l};
+
+    @media (min-width: 500px) {
+        padding: 0 ${sizes.xl} ${sizes.l};
+    }
+`;
+
+const Anchor = styled(Link)`
+    ${linkStyle}
+`;
+
 function NextPost(props) {
     if (!props.to) return null;
-
-    const Root = styled.div`
-        padding: 0 2rem ${sizes.l};
-
-        @media (min-width: 500px) {
-            padding: 0 ${sizes.xl} ${sizes.l};
-        }
-    `;
-
-    const Anchor = styled(Link)`
-        ${linkStyle}
-    `;
 
     return (
         <Root>

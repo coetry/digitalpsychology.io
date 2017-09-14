@@ -4,23 +4,23 @@ import styled from 'styled-components';
 import { colors, linkStyle, sizes } from '../css/variables';
 import Container from './Container';
 
+const Root = styled(Container)`
+    margin: ${sizes.l} 2rem;
+
+    @media (min-width: 500px) {
+        margin: ${sizes.l} ${sizes.xl};
+    }
+
+    img {
+        border: 1px solid ${colors.border};
+    }
+
+    a {
+        ${linkStyle}
+    }
+`;
+
 export default function PostContent(props) {
-    const Root = styled(Container)`
-        margin: ${sizes.l} 2rem;
-
-        @media (min-width: 500px) {
-            margin: ${sizes.l} ${sizes.xl};
-        }
-
-        img {
-            border: 1px solid ${colors.border};
-        }
-
-        a {
-            ${linkStyle}
-        }
-    `;
-
     return (
         <Root>
             <h1>{props.title}</h1>
